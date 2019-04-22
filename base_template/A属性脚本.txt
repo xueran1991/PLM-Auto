@@ -1,0 +1,155 @@
+"#供应商名称(品牌)
+add attribute myA328_Brand
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_Brand
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_Brand to att myA328_Brand;"
+"#产品系列
+add attribute myA328_ProductLine
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_ProductLine
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_ProductLine to att myA328_ProductLine;"
+"#过程连接
+add attribute myA328_ProcessConnection
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_ProcessConnection
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_ProcessConnection to att myA328_ProcessConnection;"
+"#接液套管类型
+add attribute myA328_ProcessCoverType
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_ProcessCoverType
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_ProcessCoverType to att myA328_ProcessCoverType;"
+"#颈长
+add attribute myA328_ExtensionNecklength
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_ExtensionNecklength
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_ExtensionNecklength to att myA328_ExtensionNecklength;"
+"#探杆长度
+add attribute myA328_NominalInsertionLength
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_NominalInsertionLength
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_NominalInsertionLength to att myA328_NominalInsertionLength;"
+"#传感器类型
+add attribute myA328_SensorType
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_SensorType
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_SensorType to att myA328_SensorType;"
+"#变送器类型
+add attribute myA328_TransmitterType
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_TransmitterType
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_TransmitterType to att myA328_TransmitterType;"
+"#量程
+add attribute myA328_Range
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_Range
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_Range to att myA328_Range;"
+"#接线盒
+add attribute myA328_JunctionBox
+  type string
+  description '' default ''
+  property application value MyandeCentral
+  property installer value cass
+  property 'original name' value myA328_JunctionBox
+  property 'installed date' value 05-01-2018
+  property version value 1.0;
+mod prog eServiceSchemaVariableMapping.tcl add property attribute_myA328_JunctionBox to att myA328_JunctionBox;"
+
+mod attr myA328_Brand add range = '1178';
+mod attr myA328_Brand add range = '1181';
+mod attr myA328_Brand add range = '1182';
+mod attr myA328_Brand add range = '';
+mod attr myA328_ProductLine add range = 'TM501';
+mod attr myA328_ProductLine add range = 'TR61';
+mod attr myA328_ProductLine add range = 'WZPB-230';
+mod attr myA328_ProductLine add range = '148+0065+SQT';
+mod attr myA328_ProductLine add range = '148+0065+domestic';
+mod attr myA328_ProductLine add range = '';
+mod attr myA328_ProcessConnection add range = 'M27x2';
+mod attr myA328_ProcessConnection add range = 'G1/2';
+mod attr myA328_ProcessConnection add range = '';
+mod attr myA328_ProcessCoverType add range = 'SQT';
+mod attr myA328_ProcessCoverType add range = 'TA2';
+mod attr myA328_ProcessCoverType add range = 'TA10';
+mod attr myA328_ProcessCoverType add range = '2205';
+mod attr myA328_ProcessCoverType add range = 'C276';
+mod attr myA328_ProcessCoverType add range = 'E+H-ProcessCover1';
+mod attr myA328_ProcessCoverType add range = '';
+mod attr myA328_ExtensionNecklength add range = '80mm';
+mod attr myA328_ExtensionNecklength add range = '50mm';
+mod attr myA328_ExtensionNecklength add range = '';
+mod attr myA328_NominalInsertionLength add range = '50mm';
+mod attr myA328_NominalInsertionLength add range = '75mm';
+mod attr myA328_NominalInsertionLength add range = '100mm';
+mod attr myA328_NominalInsertionLength add range = '150mm';
+mod attr myA328_NominalInsertionLength add range = '200mm';
+mod attr myA328_NominalInsertionLength add range = '250mm';
+mod attr myA328_NominalInsertionLength add range = '300mm';
+mod attr myA328_NominalInsertionLength add range = '350mm';
+mod attr myA328_NominalInsertionLength add range = '400mm';
+mod attr myA328_NominalInsertionLength add range = '450mm';
+mod attr myA328_NominalInsertionLength add range = '500mm';
+mod attr myA328_NominalInsertionLength add range = '';
+mod attr myA328_SensorType add range = 'ST-EH-01';
+mod attr myA328_SensorType add range = 'ST-Emerson-01';
+mod attr myA328_SensorType add range = '';
+mod attr myA328_TransmitterType add range = 'TMT180';
+mod attr myA328_TransmitterType add range = '148';
+mod attr myA328_TransmitterType add range = '';
+mod attr myA328_Range add range = '-50~50';
+mod attr myA328_Range add range = '-50~100';
+mod attr myA328_Range add range = '0~50';
+mod attr myA328_Range add range = '0~100';
+mod attr myA328_Range add range = '0~150';
+mod attr myA328_Range add range = '0~200';
+mod attr myA328_Range add range = '0~250';
+mod attr myA328_Range add range = '0~300';
+mod attr myA328_Range add range = '';
+mod attr myA328_JunctionBox add range = 'JB-EH-01';
+mod attr myA328_JunctionBox add range = 'JB-Emerson-01';
+mod attr myA328_JunctionBox add range = 'JB-Emerson-02';
+mod attr myA328_JunctionBox add range = '';

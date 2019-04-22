@@ -1,0 +1,40 @@
+产品系列	ProductLine
+过程连接	ProcessConnection
+接液套管类型	ProcessCoverType
+颈长	ExtensionNecklength
+探杆长度	NominalInsertionLength
+传感器类型	SensorType
+变送器类型	TransmitterType
+量程	Range
+接线盒	JunctionBox
+防护等级	IngressProtection
+防爆等级	ExplosionProofGrade
+压力等级	PressureLevel
+精度等级	Precision
+安装附件	MountingAccessories
+温度范围	TemperatureRange
+压力范围	PressureRange
+测量应用	Application
+电源	Power
+信号输出	OuputSignal
+显示及操作	DisplayOperation
+电缆入口	CableEntry
+吹扫接口	FlushEntry
+精度	Precision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
