@@ -1,0 +1,4 @@
+﻿#===============电气与自动化================
+
+#--一体化温度变送器--
+A328=mySupplierModelSpec,myA328_Brand,myA328_ProductLine,myA328_ProcessConnection,myA328_ProcessCoverType,myA328_ExtensionNecklength,myA328_NominalInsertionLength,myA328_SensorType,myA328_TransmitterType,myA328_Range,myA328_JunctionBox
