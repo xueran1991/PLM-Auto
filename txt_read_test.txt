@@ -16,9 +16,3 @@
 14	雷达物位传感器	7ML5427-0CL10-0AE1+7ML1930-1BK	西门子	LR260	100mm,通用法兰	-40~200℃	0.5bar	喇叭100mm/4",波束角8°		30m	DC24V	4~20mA,HART	本地显示,手操器操作	M20x1.5	NPT1/8 	本安,IECEx/ATEX II 1GD Ex ia IIC T4	IP67	6mm
 15	雷达物位传感器	PS69.AXCFBAHXAMAXX	VEGA	PS69	DIN DN100 316L	-40~130℃	PN16	嵌入式平板天线	FKM和PEEK	120m	DC24V	2线,4~20mA HART	带显示调整模块	M20x1.5	有	非防爆应	IP66	5mm
 16	雷达物位传感器	PS69.ACCFBAHXAMAXX	VEGA	PS69	DIN DN100 316L	-40~130℃	PN16	嵌入式平板天线	FKM和PEEK	120m	DC24V	2线,4~20mA HART	带显示调整模块	M20x1.5	有	本安防爆,ATEx II 1/2G ia IIC T6	IP66	5mm
-			other1	otherL1														
-			other2	otherL2														
-			other3	otherL3														
-			other4	otherL4														
-			other5	otherL5														
-			other6	otherL6														
