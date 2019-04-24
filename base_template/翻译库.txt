@@ -26,6 +26,59 @@
 密封	Sealing
 天线	Antenna
 
+探头	Probe
+运行温度和压力	OperatingTempPress
+导波件长度	ProbeLength
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
