@@ -76,11 +76,13 @@ class PLM_auto():
         self.brands = {}
         for br in brs:
             ls = re.split("\s", br)
-            if ls[0] not in self.brands.keys() \
-            and ls[1] not in self.brands.values():
-                self.brands[ls[0]] = ls[1]
-            else:
-                print('品牌库异常：', ls[0], ls[1], '出现重复项')
+            if ls[0] != '':
+                if ls[0] not in self.brands.keys() \
+                and ls[1] not in self.brands.values():
+
+                    self.brands[ls[0]] = ls[1]
+                else:
+                    print('品牌库异常：', ls[0], ls[1], '出现重复项')
 
     def create_class_path(self, class_job='传感器'):
 

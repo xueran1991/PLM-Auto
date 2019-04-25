@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--磁翻板液位计--
+A306=mySupplierModelSpec,myA306_Brand,myA306_ProductLine,myA306_ProcessConnection,myA306_PressureRange,myA306_Range

@@ -30,66 +30,18 @@
 运行温度和压力	OperatingTempPress
 导波件长度	ProbeLength
 
+浮球式样	FloaterType
+本体管	BodyTube
+翻板指示器	Indicator
+外型结构-上端型式	UpperEndType
+外型结构-下端型式	LowerEndType
+传送器	Transmitter
+刻度尺	ScaleMark
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+接液材质	ContactMaterial
+填充油	OilFill
+防爆认证	ExplosionProofCertificate
+传感器额定量程	RatedRange
+结构材料	MaterialofConstruction
 
 
