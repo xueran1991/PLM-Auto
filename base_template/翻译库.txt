@@ -44,4 +44,21 @@
 传感器额定量程	RatedRange
 结构材料	MaterialofConstruction
 
+过程连接类型	ProcessConnectionType
+过程连接尺寸	ProcessConnectionSize
+过程连接材质	ProcessConnectionMaterial
+额定量程	RatedRange
+认证	Certificate
+毛细管	CapillaryTube 
+
+浮球形式	FloaterType
+测量长度	Range
+解析度	Resolution
+使用区域	ApplicationArea
+管径材质	PoleMaterial
+膜片材质	MebraneMaterial
+探头连接	ProbeConnection
+传感器量程	SensorRange
+连接长度	ConnectionLength
+密封圈	SealingRing
 

@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--连杆浮球液位传感器--
+A305=mySupplierModelSpec,myA305_Brand,myA305_ProductLine,myA305_ProcessConnection,myA305_FloaterType,myA305_Range,myA305_Resolution,myA305_OuputSignal,myA305_CableEntry,myA305_ApplicationArea

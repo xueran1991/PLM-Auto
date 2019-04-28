@@ -1,4 +1,0 @@
-#===============电气与自动化================
-
-#--导波雷达物位传感器--
-A304=mySupplierModelSpec,myA304_Brand,myA304_ProductLine,myA304_ProcessConnection,myA304_Probe,myA304_ProbeLength,myA304_Power,myA304_OuputSignal,myA304_CableEntry,myA304_DisplayOperation,myA304_Sealing,myA304_ExplosionProofGrade,myA304_Precision
