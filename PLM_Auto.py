@@ -119,7 +119,7 @@ class PLM_auto():
                 trans_file.write(attrib+'\n')
         trans_file.close()
         
-        new_trans = self.get_translation()
+        new_trans = self.get_translation(file)
         self.trans = new_trans.copy()
         for key in new_trans.keys():
             if new_trans[key] == '':

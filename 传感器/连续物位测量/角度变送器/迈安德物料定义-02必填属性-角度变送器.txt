@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--角度变送器--
+A308=mySupplierModelSpec,myA308_Brand,myA308_ProductLine,myA308_TransmitterType,myA308_RotationDirection,myA308_Range,myA308_OuputSignal,myA308_Power,myA308_JunctionBox

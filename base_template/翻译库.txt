@@ -62,3 +62,9 @@
 连接长度	ConnectionLength
 密封圈	SealingRing
 
+安装方式	MountingType
+旋转方向	RotationDirection
+测量范围	Range
+接液材料	ContactMaterial
+盲区	Deadband
+分辨率	Resolution
