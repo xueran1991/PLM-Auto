@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--微型断路器--
+A004=mySupplierModelSpec,myA004_Brand,myA004_ProductLine,myA004_ApplicationCategory,myA004_BreakingCapacity,myA004_TrippingCurves,myA004_RatedCurrent,myA004_PoleNumber,myA004_CanBeEquippedWithResidualCurrentActionAccessories,myA004_RatedResidualOperatingCurrent

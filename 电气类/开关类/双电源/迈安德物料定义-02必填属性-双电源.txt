@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--双电源--
+A008=mySupplierModelSpec,myA008_Brand,myA008_ProductLine,myA008_CurrentShellFrame,myA008_BreakingCapacity,myA008_Trip,myA008_PoleNumber,myA008_RatedCurrent,myA008_ControllerModel

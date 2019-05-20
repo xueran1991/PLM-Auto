@@ -26,6 +26,8 @@ class PLM_auto():
         #品牌和翻译的字典
         self.brands = {}
         self.trans = {}
+        #材质的字典
+        self.materials = {}
         #读入的数据
         self.data = None
         self.dataframe = None
@@ -34,6 +36,8 @@ class PLM_auto():
         #当前任务
         self.job = ''
         self.job_code = ''
+        self.mclass = '' # 中类名称
+        self.sclass = '' # 次中类名称
         self.write_path = ''
 
     def get_class(self, file):
@@ -82,6 +86,21 @@ class PLM_auto():
                 else:
                     print('品牌库异常：', ls[0], ls[1], '出现重复项')
 
+    def get_material(self, file):
+        # 提取材质库信息
+        m_path = self.base_path + file
+        m_file = open(m_path, 'r')
+        ms = m_file.readlines()
+        materials = {}
+        for m in ms:
+            m = re.split("\s", m)
+            if m[0] != '' :
+                materials[m[0]] = m[1]
+
+        m_file.close()
+        self.materials = materials
+
+                                            
     def create_class_path(self, class_job='传感器'):
         ### 创建小类路径
         for m_class in self.medium_class[class_job]:
@@ -125,6 +144,17 @@ class PLM_auto():
             if new_trans[key] == '':
                 print(key, ':翻译缺失')
 
+    def get_job_class(self):
+        ### 获取当前任务的中类名称和大类名称
+        for k, v in self.detailed_class.items():
+            if self.job in v:
+                self.sclass = k
+                break
+        for k, v in self.medium_class.items():
+            if self.sclass in v:
+                self.mclass = k
+                break
+
     def get_data(self, file_path):
         ### 读入原始物料表单数据
         if file_path[-5:] == '.xlsx':
@@ -143,22 +173,27 @@ class PLM_auto():
             self.data = np.array(data)            
         else:
             raise ValueError
-
+            
+        # 提取当前任务的名称（同小类名称）
         self.job = file_path.split("\\")[-1].split(".")[0]
+        # 写入地址是输入文件的路径 + 小类文件夹
         self.write_path = file_path.replace(self.job+'.txt', self.job+'\\')
 
         self.dataframe = pd.DataFrame(data=self.data[2:, 1:], \
             columns=self.data[1, 1:], index=self.data[2:, 0])
-
+        # 属性
         self.attribs = self.dataframe.columns[2:]
+        # 属性是否必填
         self.attribs_necessity = self.data[0][3:]
+        # 小类编码
         self.job_code = self.class_code[self.job] 
 
     def create_t02(self):
         ### 生成 02-必填属性
+        self.get_job_class()
 
         t02_header = '#===============电气与自动化================\n\n'
-        t02_header += ('#--' + self.job + '--' + '\n')
+        t02_header += ('#--' + self.mclass + '--' + self.sclass + '--' + self.job + '\n')
         t02_content = self.job_code + '=mySupplierModelSpec'
 
         # 遍历所有属性，添加必要属性
@@ -178,11 +213,11 @@ class PLM_auto():
     def create_t03(self):
         ### 生成03-属性组合
 
-        t03_header = "#====各分类组合属性集===========\n \
-                        #====分类码.组合属性代码+组合顺序=子属性名\n \
-                        #====物料简称:cassShortDescription\n \
-                        #====描述:myDesc\n\n"
-        t03_header += ('#--' + self.job + '--' + '\n\n')
+        t03_header = "#====各分类组合属性集===========\n\
+#====分类码.组合属性代码+组合顺序=子属性名\n\
+#====物料简称:cassShortDescription\n\
+#====描述:myDesc\n\n"
+        t03_header += ('#--' + self.mclass + '--' + self.sclass + '--' + self.job + '\n\n')
 
         t03_content1 = '#l表示：PLM物料名称:ERP物料名称\n' + self.job_code \
                         + '.l0={cassShortDescription}\n\n'
@@ -209,6 +244,7 @@ class PLM_auto():
         # 生成定义属性工作表
         ws_df_header = ['模块','中文名称','分类码','英文名字','定义属性','属性类型','翻译脚本','创建属性脚本']
 
+        # 属性数目
         attr_num = len(self.attribs)
         ws_df_cA = ['物料属性'] * attr_num
         ws_df_cB = self.attribs
@@ -270,40 +306,65 @@ mod prog eServiceSchemaVariableMapping.tcl add property attribute_"&E{}&" to att
         ws_rg_header = ['固定属性','分类码','英文名字','定义属性','-','值的前台显示','值(不能有中文)','Range值脚本','Range值翻译']
         ws_rg_cC = []
         ws_rg_cF = []
+        ws_rg_cG = []
         range_value = []
-
+        
         for attrib, attrib_necessity in zip(self.attribs, self.attribs_necessity):
-            ## 遍历dataframe，生成C，F列 和 属性的值
-            
+
+            # 检查翻译库
+            if self.trans[attrib] == '':
+                print('+---翻译库缺失--', attrib)
+
+            ## 遍历dataframe，生成C，F, G列 和 属性的值
+            i = 1 # 每种普通属性的值从1开始计数
             # txt读出的数值为str型，excel读出的为int型
             if attrib_necessity in [1, '1']:
+            ## 如果属性是必填属性，在ws_rg_cC中存储属性的枚举，
+            ## 并在每一个属性后添加一个空的属性值
                 for value in self.dataframe[attrib].unique():
                     if value != '' and value != None:
                         ws_rg_cC.append(self.trans[attrib])
+                        # 在F列写入属性的名称
                         ws_rg_cF.append(value)
-                if attrib != '品牌':
-                    for i in range(1, self.dataframe[attrib].nunique()+1):
-                        range_value.append(self.trans[attrib].lower() + str(i))
-                    
-            range_value.append('')            
-            ws_rg_cC.append(self.trans[attrib])
-            ws_rg_cF.append('')
 
-        # 生成其他列，写入表格公式或值
-        attr_num = len(ws_rg_cF)
-        ws_rg_cA = ['mod attr'] * attr_num
-        ws_rg_cB = [self.job_code] * attr_num
-        ws_rg_cD = ['="my"&B{}&"_"&C{}'.format(i,i) for i in range(2,attr_num+2)]
-        ws_rg_cE = ['add range'] * attr_num
+                    # 在G列填入品牌库编码
+                    if '品牌' in attrib:
+                        try:
+                            ws_rg_cG.append(self.brands[value])
+                        except:
+                            ws_rg_cG.append('')
+                            print('+---品牌库缺失--', value)
 
-        brands_num = self.dataframe['品牌'].nunique()
-        ws_rg_cG = [self.brands[br] for br in ws_rg_cF[:brands_num]]
-        ws_rg_cG += range_value
+                    # 在G列填入材质库编码
+                    elif '材质' in attrib:
+                        try:
+                            ws_rg_cG.append(self.materials[value])
+                        except:
+                            print('+---材质库缺失--', value)
+                            ws_rg_cG.append('')
 
+                    # 在G列填入其他属性的值
+                    else:
+                        ws_rg_cG.append(self.trans[attrib].lower() + str(i))
+                        i += 1
+            
+                # 每种必填属性穷举后添加一行，这行在cC中显示属性的翻译，属性值和前台显示为空
+                ws_rg_cC.append(self.trans[attrib])
+                ws_rg_cF.append('')
+                ws_rg_cG.append('')
+        ## 生成其他列，写入表格公式或值
+        # 必填属性枚举的数目
+        nece_attrib_num = len(ws_rg_cF)
+        ws_rg_cA = ['mod attr'] * nece_attrib_num
+        ws_rg_cB = [self.job_code] * nece_attrib_num
+        ws_rg_cD = ['="my"&B{}&"_"&C{}'.format(i,i) for i in range(2,nece_attrib_num+2)]
+        ws_rg_cE = ['add range'] * nece_attrib_num
+
+        # H、I列写入公式
         cH_string = """=CONCATENATE(A{}," ",D{}," ",E{}," ","="," ","'",G{},"'",";")"""
-        ws_rg_cH = [cH_string.format(i,i,i,i) for i in range(2, attr_num+2)]
+        ws_rg_cH = [cH_string.format(i,i,i,i) for i in range(2, nece_attrib_num+2)]
         cI_string = '=CONCATENATE("emxFramework.Range.",D{},,".",G{}," ="," ",F{})'
-        ws_rg_cI = [cI_string.format(i,i,i) for i in range(2, attr_num+2)]
+        ws_rg_cI = [cI_string.format(i,i,i) for i in range(2, nece_attrib_num+2)]
 
         # 将数据传入df
         df = pd.DataFrame(columns=ws_rg_header)

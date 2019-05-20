@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--开关类产品附件--
+A007=mySupplierModelSpec,myA007_Brand,myA007_ProductLine,myA007_TheProductName,myA007_OrderNo

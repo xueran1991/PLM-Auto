@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--熔断开关--
+A005=mySupplierModelSpec,myA005_Brand,myA005_ProductLine,myA005_CurrentRating,myA005_PoleNumber,myA005_ControlMode

@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电动机保护断路器--
+A003=mySupplierModelSpec,myA003_Brand,myA003_ProductLine,myA003_ModeOfOperation,myA003_RatedCurrentRange,myA003_ConnectionMode,myA003_DomesticImported

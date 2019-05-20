@@ -1,0 +1,25 @@
+是否必填			1	1	1	1	1
+序号	分类名称	供应商型号规格	品牌	产品系列	电流等级	极数	控制方式
+1	熔断开关	ISFT 100 3P	施耐德	ISFT	100	3P	无
+2	熔断开关	ISFT 160 3P	施耐德	ISFT	160	3P	无
+3	熔断开关	ISFT 250 3P	施耐德	ISFT	250	3P	无
+4	熔断开关	ISFT 400 3P	施耐德	ISFT	400	3P	无
+5	熔断开关	ISFT 630 3P	施耐德	ISFT	630	3P	无
+6	熔断开关	ISFL 160 3P	施耐德	ISFL 	160	3P	无
+7	熔断开关	ISFL 250 3P	施耐德	ISFL 	250	3P	无
+8	熔断开关	ISFL 400 3P	施耐德	ISFL 	400	3P	无
+9	熔断开关	ISFL 630 3P	施耐德	ISFL 	630	3P	无
+10	熔断开关	INFD 40 3P3F D	施耐德	INFD	40	3P	正面直接手柄
+11	熔断开关	INFD 63 3P3F D	施耐德	INFD	63	3P	正面直接手柄
+12	熔断开关	INFD 160 3P3F D	施耐德	INFD	160	3P	正面直接手柄
+13	熔断开关	INFD 250 3P3F D	施耐德	INFD	250	3P	正面直接手柄
+14	熔断开关	INFD 400 3P3F D	施耐德	INFD	400	3P	正面直接手柄
+15	熔断开关	INFD 630 3P3F D	施耐德	INFD	630	3P	正面直接手柄
+16	熔断开关	INFD 800 3P3F D	施耐德	INFD	800	3P	正面直接手柄
+17	熔断开关	INFD 40 3P3F F	施耐德	INFD	40	3P	正面延伸手柄
+18	熔断开关	INFD 63 3P3F F	施耐德	INFD	63	3P	正面延伸手柄
+19	熔断开关	INFD 160 3P3F F	施耐德	INFD	160	3P	正面延伸手柄
+20	熔断开关	INFD 250 3P3F F	施耐德	INFD	250	3P	正面延伸手柄
+21	熔断开关	INFD 400 3P3F F	施耐德	INFD	400	3P	正面延伸手柄
+22	熔断开关	INFD 630 3P3F F	施耐德	INFD	630	3P	正面延伸手柄
+23	熔断开关	INFD 800 3P3F F	施耐德	INFD	800	3P	正面延伸手柄

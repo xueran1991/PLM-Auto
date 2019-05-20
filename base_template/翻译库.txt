@@ -68,3 +68,9 @@
 接液材料	ContactMaterial
 盲区	Deadband
 分辨率	Resolution
+连接材质	ProcessConnectionMaterial
+电源及输出	PowerAndOutput
+叶片型式	BladeType
+防爆类型	ExType
+探头材质	ProbeMaterial
+过程条件	ProcessCondition

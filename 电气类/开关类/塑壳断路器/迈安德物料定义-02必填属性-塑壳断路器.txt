@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--塑壳断路器--
+A002=mySupplierModelSpec,myA002_Brand,myA002_ProductLine,myA002_,myA002_CurrentShellFrame,myA002_BreakingCapacity,myA002_,myA002_,myA002_PoleNumber,myA002_

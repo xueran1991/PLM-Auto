@@ -1,0 +1,16 @@
+#====各分类组合属性集===========
+#====分类码.组合属性代码+组合顺序=子属性名
+#====物料简称:cassShortDescription
+#====描述:myDesc
+
+#--传感器--物位开关--音叉物位开关
+
+#l表示：PLM物料名称:ERP物料名称
+A310.l0={cassShortDescription}
+
+#d：ERP物料名称:物料简称
+A310.d0={cassShortDescription}
+
+#s：ERP型号规格:供应商型号规格
+A310.s0={mySupplierModelSpec}
+

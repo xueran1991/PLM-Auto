@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--物位开关--音叉物位开关
+A310=mySupplierModelSpec,myA310_Brand,myA310_ProductLine,myA310_ExType,myA310_ProcessConnection,myA310_ProbeMaterial,myA310_NominalInsertionLength,myA310_PowerAndOutput
