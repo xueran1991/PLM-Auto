@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--可燃/有毒检测--有毒气体检测
+A357=mySupplierModelSpec,myA357_Application,myA357_Range,myA357_CableEntry,myA357_ExType,myA357_OutputSignal

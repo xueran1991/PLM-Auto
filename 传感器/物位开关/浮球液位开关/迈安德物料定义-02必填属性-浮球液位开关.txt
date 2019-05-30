@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--物位开关--浮球液位开关
+A311=mySupplierModelSpec,myA311_Brand,myA311_ProductLine,myA311_ContactMaterial,myA311_ProcessConnection

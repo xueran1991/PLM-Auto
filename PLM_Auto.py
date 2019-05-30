@@ -44,7 +44,7 @@ class PLM_auto():
         ## 提取分类类别
         Y201_ruls_path = self.base_path + file
         Y201_ruls_wb = load_workbook(Y201_ruls_path)
-        Y201_ruls_ws = Y201_ruls_wb['物料分类表 R21']
+        Y201_ruls_ws = Y201_ruls_wb['物料分类表 R22']
 
         # C: 大类名称 电气……
         # E：中类名称 传感器……
@@ -53,7 +53,7 @@ class PLM_auto():
         C, D, E, F, G, H = Y201_ruls_ws['C:H']        
 
         for c, e, f, g, h  in zip(C, E, F, G, H):
-            if c.value == '电气':
+            if c.value == '电气' and g.value != None:
                 self.primary_class['电气'].add(e.value)
                 # 存储中类：次中类
                 try:
@@ -115,7 +115,7 @@ class PLM_auto():
                     
     def get_translation(self, file):
         ### 提取翻译库数据
-        trans_path = self.base_path + file
+        trans_path = file
         trans_file = open(trans_path, 'r')
         trans = trans_file.readlines()
         translation = {}
@@ -130,8 +130,7 @@ class PLM_auto():
     def refresh_translation(self, file):
         ### 更新翻译库，将需要导入的属性加入翻译库
         current_trans = self.get_translation(file)
-        trans_path = self.base_path + file
-        trans_file = open(trans_path, 'a+')
+        trans_file = open(file, 'a+')
 
         for attrib in self.attribs:
             if attrib not in current_trans:
@@ -140,9 +139,9 @@ class PLM_auto():
         
         new_trans = self.get_translation(file)
         self.trans = new_trans.copy()
-        for key in new_trans.keys():
-            if new_trans[key] == '':
-                print(key, ':翻译缺失')
+        # for key in new_trans.keys():
+        #     if new_trans[key] == '':
+        #         print(key, ':翻译缺失')
 
     def get_job_class(self):
         ### 获取当前任务的中类名称和大类名称
@@ -175,9 +174,11 @@ class PLM_auto():
             raise ValueError
             
         # 提取当前任务的名称（同小类名称）
-        self.job = file_path.split("\\")[-1].split(".")[0]
+        # self.job = file_path.split("\\")[-1].split(".")[0]
+
         # 写入地址是输入文件的路径 + 小类文件夹
-        self.write_path = file_path.replace(self.job+'.txt', self.job+'\\')
+        # self.write_path = file_path.replace(self.job+'.txt', self.job+'\\')
+
 
         self.dataframe = pd.DataFrame(data=self.data[2:, 1:], \
             columns=self.data[1, 1:], index=self.data[2:, 0])
@@ -185,8 +186,16 @@ class PLM_auto():
         self.attribs = self.dataframe.columns[2:]
         # 属性是否必填
         self.attribs_necessity = self.data[0][3:]
+
         # 小类编码
+        # 通过dataframe获取分类名称
+        self.job = self.dataframe['分类名称'].unique()[0]
         self.job_code = self.class_code[self.job] 
+        # 写入地址是输入文件的路径 + 小类文件夹
+        self.write_path = os.path.dirname(file_path) + '\\' + self.job_code + "-" + self.job + '\\'
+        if not os.path.exists(self.write_path):
+            os.makedirs(self.write_path)
+            print('已创建路径：', self.write_path) 
 
     def create_t02(self):
         ### 生成 02-必填属性
@@ -335,13 +344,13 @@ mod prog eServiceSchemaVariableMapping.tcl add property attribute_"&E{}&" to att
                             ws_rg_cG.append('')
                             print('+---品牌库缺失--', value)
 
-                    # 在G列填入材质库编码
-                    elif '材质' in attrib:
-                        try:
-                            ws_rg_cG.append(self.materials[value])
-                        except:
-                            print('+---材质库缺失--', value)
-                            ws_rg_cG.append('')
+                    # 在G列填入材质库编码 ##---取消材质库关联
+                    # elif '材质' in attrib:
+                    #     try:
+                    #         ws_rg_cG.append(self.materials[value])
+                    #     except:
+                    #         print('+---材质库缺失--', value)
+                    #         ws_rg_cG.append('')
 
                     # 在G列填入其他属性的值
                     else:

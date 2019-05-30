@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--位置检测--行程开关
+A345=mySupplierModelSpec,myA345_Brand,myA345_ProductLine,myA345_DrivingType,myA345_ContactType

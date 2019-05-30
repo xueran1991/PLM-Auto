@@ -1,0 +1,122 @@
+			1	1	1	0	1	1	0	1	0	0	1	0	1	1	1	0	0
+序号	分类名称	供应商型号规格	品牌	产品系列	应用类型	认证	防爆类型	信号输出	显示及操作	电气连接	防护等级	压力范围	量程	精度	过程连接	连接材质	膜片材质	填充油	附加信息
+1	差压压力变送器	PMD55-AA21BB27CGCHAJA1A+AK(0~3kPa)	E+H	PMD55	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		30mbar（对应静压1bar）	0~3kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+2	差压压力变送器	PMD55-AA21BB67DGCHAJA1A+AK(-3~3kPa)	E+H	PMD55	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	-3~3kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+3	差压压力变送器	PMD55-AA21BB67DGCHAJA1A+AK(0~5kPa)	E+H	PMD55	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	0~5kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+4	差压压力变送器	PMD55-AA21BB67DGCHAJA1A+AK(-5~5kPa)	E+H	PMD55	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	-5~5kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+5	差压压力变送器	PMD55-AA21BB67FGCHAJA1A+AK(0~10kPa)	E+H	PMD55	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		500mbar（对应静压7MPa）	0~10kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+6	差压压力变送器	PMD55-AA21BB67FGCHAJA1A+AK(-10~10kPa)	E+H	PMD55	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		500mbar（对应静压7MPa）	-10~10kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+7	差压压力变送器	PMD55-BC21BB27CGCHAJA1A+AK(0~3kPa)	E+H	PMD55	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		30mbar（对应静压1bar）	0~3kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+8	差压压力变送器	PMD55-BC21BB67DGCHAJA1A+AK(-3~3kPa)	E+H	PMD55	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	-3~3kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+9	差压压力变送器	PMD55-BC21BB67DGCHAJA1A+AK(0~5kPa)	E+H	PMD55	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	0~5kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+10	差压压力变送器	PMD55-BC21BB67DGCHAJA1A+AK(-5~5kPa)	E+H	PMD55	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	-5~5kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+11	差压压力变送器	PMD55-BC21BB67FGCHAJA1A+AK(0~10kPa)	E+H	PMD55	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		500mbar（对应静压7MPa）	0~10kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+12	差压压力变送器	PMD55-BC21BB67FGCHAJA1A+AK(-10~10kPa)	E+H	PMD55	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		500mbar（对应静压7MPa）	-10~10kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+13	差压压力变送器	PMD55-NB21BB27CGCHAJA1A+AK(0~3kPa)	E+H	PMD55	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		30mbar（对应静压1bar）	0~3kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+14	差压压力变送器	PMD55-NB21BB67DGCHAJA1A+AK(-3~3kPa)	E+H	PMD55	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	-3~3kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+15	差压压力变送器	PMD55-NB21BB67DGCHAJA1A+AK(0~5kPa)	E+H	PMD55	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	0~5kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+16	差压压力变送器	PMD55-NB21BB67DGCHAJA1A+AK(-5~5kPa)	E+H	PMD55	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		100mbar（对应静压7MPa）	-5~5kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+17	差压压力变送器	PMD55-NB21BB67FGCHAJA1A+AK(0~10kPa)	E+H	PMD55	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		500mbar（对应静压7MPa）	0~10kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+18	差压压力变送器	PMD55-NB21BB67FGCHAJA1A+AK(-10~10kPa)	E+H	PMD55	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		500mbar（对应静压7MPa）	-10~10kPa		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+19	差压压力变送器	PMP51-AA21JB1FGCGMJA1+AK(0~3kPa)	E+H	PMP51	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~3kPa		G1/2外螺纹	316L	316L	硅油	
+20	差压压力变送器	PMP51-AA21JB1FGCGMJA1+AK(-3~3kPa)	E+H	PMP51	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-3~3kPa		G1/2外螺纹	316L	316L	硅油	
+21	差压压力变送器	PMP51-AA21JB1FGCGMJA1+AK(0~5kPa)	E+H	PMP51	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~5kPa		G1/2外螺纹	316L	316L	硅油	
+22	差压压力变送器	PMP51-AA21JB1FGCGMJA1+AK(-5~5kPa)	E+H	PMP51	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-5~5kPa		G1/2外螺纹	316L	316L	硅油	
+23	差压压力变送器	PMP51-AA21JB1FGCGMJA1+AK(0~10kPa)	E+H	PMP51	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~10kPa		G1/2外螺纹	316L	316L	硅油	
+24	差压压力变送器	PMP51-AA21JB1FGCGMJA1+AK(-10~10kPa)	E+H	PMP51	微差压	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-10~10kPa		G1/2外螺纹	316L	316L	硅油	
+25	差压压力变送器	PMP51-BC21JB1FGCGMJA1+AK(0~3kPa)	E+H	PMP51	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~3kPa		G1/2外螺纹	316L	316L	硅油	
+26	差压压力变送器	PMP51-BC21JB1FGCGMJA1+AK(-3~3kPa)	E+H	PMP51	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-3~3kPa		G1/2外螺纹	316L	316L	硅油	
+27	差压压力变送器	PMP51-BC21JB1FGCGMJA1+AK(0~5kPa)	E+H	PMP51	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~5kPa		G1/2外螺纹	316L	316L	硅油	
+28	差压压力变送器	PMP51-BC21JB1FGCGMJA1+AK(-5~5kPa)	E+H	PMP51	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-5~5kPa		G1/2外螺纹	316L	316L	硅油	
+29	差压压力变送器	PMP51-BC21JB1FGCGMJA1+AK(0~10kPa)	E+H	PMP51	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~10kPa		G1/2外螺纹	316L	316L	硅油	
+30	差压压力变送器	PMP51-BC21JB1FGCGMJA1+AK(-10~10kPa)	E+H	PMP51	微差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-10~10kPa		G1/2外螺纹	316L	316L	硅油	
+31	差压压力变送器	PMP51-NB21JB1FGCGMJA1+AK(0~3kPa)	E+H	PMP51	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~3kPa		G1/2外螺纹	316L	316L	硅油	
+32	差压压力变送器	PMP51-NB21JB1FGCGMJA1+AK(-3~3kPa)	E+H	PMP51	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-3~3kPa		G1/2外螺纹	316L	316L	硅油	
+33	差压压力变送器	PMP51-NB21JB1FGCGMJA1+AK(0~5kPa)	E+H	PMP51	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~5kPa		G1/2外螺纹	316L	316L	硅油	
+34	差压压力变送器	PMP51-NB21JB1FGCGMJA1+AK(-5~5kPa)	E+H	PMP51	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-5~5kPa		G1/2外螺纹	316L	316L	硅油	
+35	差压压力变送器	PMP51-NB21JB1FGCGMJA1+AK(0~10kPa)	E+H	PMP51	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	0~10kPa		G1/2外螺纹	316L	316L	硅油	
+36	差压压力变送器	PMP51-NB21JB1FGCGMJA1+AK(-10~10kPa)	E+H	PMP51	微差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		表压400mbar	-10~10kPa		G1/2外螺纹	316L	316L	硅油	
+37	差压压力变送器	EJA110E-JLS5J-919EA(0~3kPa)	横河川仪	EJA110E	微差压	无认证	非防爆	4-20mA HART	本地显示和设置	M20		-10~10kPa	0~3kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+38	差压压力变送器	EJA110E-JLS5J-919EA(-3~3kPa)	横河川仪	EJA110E	微差压	无认证	非防爆	4-20mA HART	本地显示和设置	M20		-10~10kPa	-3~3kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+39	差压压力变送器	EJA110E-JMS5J-919EA(0~5kPa)	横河川仪	EJA110E	微差压	无认证	非防爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	0~5kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+40	差压压力变送器	EJA110E-JMS5J-919EA(-5~5kPa)	横河川仪	EJA110E	微差压	无认证	非防爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	-5~5kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+41	差压压力变送器	EJA110E-JMS5J-919EA(0~10kPa)	横河川仪	EJA110E	微差压	无认证	非防爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	0~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+42	差压压力变送器	EJA110E-JMS5J-919EA(-10~10kPa)	横河川仪	EJA110E	微差压	无认证	非防爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	-10~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+43	差压压力变送器	EJA110E-JLS5J-919EA/NF2(0~3kPa)	横河川仪	EJA110E	微差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-10~10kPa	0~3kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+44	差压压力变送器	EJA110E-JLS5J-919EA/NF2(-3~3kPa)	横河川仪	EJA110E	微差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-10~10kPa	-3~3kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+45	差压压力变送器	EJA110E-JMS5J-919EA/NF2(0~5kPa)	横河川仪	EJA110E	微差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	0~5kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+46	差压压力变送器	EJA110E-JMS5J-919EA/NF2(-5~5kPa)	横河川仪	EJA110E	微差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	-5~5kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+47	差压压力变送器	EJA110E-JMS5J-919EA/NF2(0~10kPa)	横河川仪	EJA110E	微差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	0~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+48	差压压力变送器	EJA110E-JMS5J-919EA/NF2(-10~10kPa)	横河川仪	EJA110E	微差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	-10~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+49	差压压力变送器	EJA110E-JLS5J-919EA/KF22(0~3kPa)	横河川仪	EJA110E	微差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-10~10kPa	0~3kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+50	差压压力变送器	EJA110E-JLS5J-919EA/KF22(-3~3kPa)	横河川仪	EJA110E	微差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-10~10kPa	-3~3kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+51	差压压力变送器	EJA110E-JMS5J-919EA/KF22(0~5kPa)	横河川仪	EJA110E	微差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	0~5kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+52	差压压力变送器	EJA110E-JMS5J-919EA/KF22(-5~5kPa)	横河川仪	EJA110E	微差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	-5~5kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+53	差压压力变送器	EJA110E-JMS5J-919EA/KF22(0~10kPa)	横河川仪	EJA110E	微差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	0~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+54	差压压力变送器	EJA110E-JMS5J-919EA/KF22(-10~10kPa)	横河川仪	EJA110E	微差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~100kPa	-10~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+55	差压压力变送器	EJA430E-JHS5J-919EA(0~10kPa)	横河川仪	EJA430E	微差压	无认证	非防爆	4-20mA HART	本地显示和设置	M20		-100~500kPa	0~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+56	差压压力变送器	EJA430E-JHS5J-919EA(-10~10kPa)	横河川仪	EJA430E	微差压	无认证	非防爆	4-20mA HART	本地显示和设置	M20		-100~500kPa	-10~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+57	差压压力变送器	EJA430E-JHS5J-919EA/NF2(0~10kPa)	横河川仪	EJA430E	微差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~500kPa	0~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+58	差压压力变送器	EJA430E-JHS5J-919EA/NF2(-10~10kPa)	横河川仪	EJA430E	微差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~500kPa	-10~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+59	差压压力变送器	EJA430E-JHS5J-919EA/KF22(0~10kPa)	横河川仪	EJA430E	微差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~500kPa	0~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+60	差压压力变送器	EJA430E-JHS5J-919EA/KF22(-10~10kPa)	横河川仪	EJA430E	微差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20		-100~500kPa	-10~10kPa		NPT1/4内螺纹*2	316	哈氏合金C		
+61	差压压力变送器	3051DP1A62A1BM5B4HR5(0~3kPa)	艾默生	3051DP	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+62	差压压力变送器	3051DP1A62A1BM5B4HR5(-3~3kPa)	艾默生	3051DP	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-3~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+63	差压压力变送器	3051DP1A62A1BM5B4HR5(0~5kPa)	艾默生	3051DP	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+64	差压压力变送器	3051DP1A62A1BM5B4HR5(-5~5kPa)	艾默生	3051DP	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-5~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+65	差压压力变送器	3051DP2A62A1BM5B4HR5(0~10kPa)	艾默生	3051DP	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-62.2kPa至62.2kPa	0~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+66	差压压力变送器	3051DP2A62A1BM5B4HR5(-10~10kPa)	艾默生	3051DP	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-62.2kPa至62.2kPa	-10~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+67	差压压力变送器	3051DP1A62A1BM5B4E3HR5(0~3kPa)	艾默生	3051DP	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+68	差压压力变送器	3051DP1A62A1BM5B4E3HR5(-3~3kPa)	艾默生	3051DP	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-3~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+69	差压压力变送器	3051DP1A62A1BM5B4E3HR5(0~5kPa)	艾默生	3051DP	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+70	差压压力变送器	3051DP1A62A1BM5B4E3HR5(-5~5kPa)	艾默生	3051DP	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-5~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+71	差压压力变送器	3051DP2A62A1BM5B4E3HR5(0~10kPa)	艾默生	3051DP	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-62.2kPa至62.2kPa	0~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+72	差压压力变送器	3051DP2A62A1BM5B4E3HR5(-10~10kPa)	艾默生	3051DP	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-62.2kPa至62.2kPa	-10~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+73	差压压力变送器	3051DP1A62A1BM5B4K8HR5(0~3kPa)	艾默生	3051DP	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+74	差压压力变送器	3051DP1A62A1BM5B4K8HR5(-3~3kPa)	艾默生	3051DP	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-3~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+75	差压压力变送器	3051DP1A62A1BM5B4K8HR5(0~5kPa)	艾默生	3051DP	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+76	差压压力变送器	3051DP1A62A1BM5B4K8HR5(-5~5kPa)	艾默生	3051DP	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-5~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+77	差压压力变送器	3051DP2A62A1BM5B4K8HR5(0~10kPa)	艾默生	3051DP	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-62.2kPa至62.2kPa	0~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+78	差压压力变送器	3051DP2A62A1BM5B4K8HR5(-10~10kPa)	艾默生	3051DP	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-62.2kPa至62.2kPa	-10~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+79	差压压力变送器	3051DG1A62A1BM5B4HR5(0~3kPa)	艾默生	3051DG	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+80	差压压力变送器	3051DG1A62A1BM5B4HR5(-3~3kPa)	艾默生	3051DG	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-3~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+81	差压压力变送器	3051DG1A62A1BM5B4HR5(0~5kPa)	艾默生	3051DG	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+82	差压压力变送器	3051DG1A62A1BM5B4HR5(-5~5kPa)	艾默生	3051DG	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-5~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+83	差压压力变送器	3051DG2A62A1BM5B4HR5(0~10kPa)	艾默生	3051DG	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-62.2kPa~62.2kPa	0~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+84	差压压力变送器	3051DG2A62A1BM5B4HR5(-10~10kPa)	艾默生	3051DG	微差压	无认证	非防爆	4-20mA HART	本地显示	M20		-62.2kPa~62.2kPa	-10~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+85	差压压力变送器	3051DG1A62A1BM5B4E3HR5(0~3kPa)	艾默生	3051DG	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+86	差压压力变送器	3051DG1A62A1BM5B4E3HR5(-3~3kPa)	艾默生	3051DG	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-3~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+87	差压压力变送器	3051DG1A62A1BM5B4E3HR5(0~5kPa)	艾默生	3051DG	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+88	差压压力变送器	3051DG1A62A1BM5B4E3HR5(-5~5kPa)	艾默生	3051DG	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-5~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+89	差压压力变送器	3051DG2A62A1BM5B4E3HR5(0~10kPa)	艾默生	3051DG	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-62.2kPa~62.2kPa	0~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+90	差压压力变送器	3051DG2A62A1BM5B4E3HR5(-10~10kPa)	艾默生	3051DG	微差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-62.2kPa~62.2kPa	-10~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+91	差压压力变送器	3051DG1A62A1BM5B4K8HR5(0~3kPa)	艾默生	3051DG	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+92	差压压力变送器	3051DG1A62A1BM5B4K8HR5(-3~3kPa)	艾默生	3051DG	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-3~3kPa		NPT1/4内螺纹*2	304	316L	硅油	
+93	差压压力变送器	3051DG1A62A1BM5B4K8HR5(0~5kPa)	艾默生	3051DG	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	0~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+94	差压压力变送器	3051DG1A62A1BM5B4K8HR5(-5~5kPa)	艾默生	3051DG	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-6.22kPa~6.22kPa	-5~5kPa		NPT1/4内螺纹*2	304	316L	硅油	
+95	差压压力变送器	3051DG2A62A1BM5B4K8HR5(0~10kPa)	艾默生	3051DG	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-62.2kPa~62.2kPa	0~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+96	差压压力变送器	3051DG2A62A1BM5B4K8HR5(-10~10kPa)	艾默生	3051DG	微差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-62.2kPa~62.2kPa	-10~10kPa		NPT1/4内螺纹*2	304	316L	硅油	
+97	差压压力变送器	PMD55-AA21BB67HGBHA4A1C+AK(0~3bar)	E+H	PMD55	差压	非防爆区	非防爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),3bar(差压)	0~3bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	碳钢	316L	硅油	
+98	差压压力变送器	PMD55-AA21BB67LGBHA4A1C+AK(0~6bar)	E+H	PMD55	差压	非防爆区	非防爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),16bar(差压)	0~6bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	碳钢	316L	硅油	
+99	差压压力变送器	PMD55-AA21BB67HGBHAJA1C+AK(0~3bar)	E+H	PMD55	差压	非防爆区	非防爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),3bar(差压)	0~3bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+100	差压压力变送器	PMD55-AA21BB67LGBHAJA1C+AK(0~6bar)	E+H	PMD55	差压	非防爆区	非防爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),16bar(差压)	0~6bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+101	差压压力变送器	PMD55-BC21BB67HGBHA4A1C+AK(0~3bar)	E+H	PMD55	差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),3bar(差压)	0~3bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	碳钢	316L	硅油	
+102	差压压力变送器	PMD55-BC21BB67LGBHA4A1C+AK(0~6bar)	E+H	PMD55	差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),16bar(差压)	0~6bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	碳钢	316L	硅油	
+103	差压压力变送器	PMD55-BC21BB67HGBHAJA1C+AK(0~3bar)	E+H	PMD55	差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),3bar(差压)	0~3bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+104	差压压力变送器	PMD55-BC21BB67LGBHAJA1C+AK(0~6bar)	E+H	PMD55	差压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),16bar(差压)	0~6bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+105	差压压力变送器	PMD55-NB21BB67HGBHA4A1C+AK(0~3bar)	E+H	PMD55	差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),3bar(差压)	0~3bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	碳钢	316L	硅油	
+106	差压压力变送器	PMD55-NB21BB67LGBHA4A1C+AK(0~6bar)	E+H	PMD55	差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),16bar(差压)	0~6bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	碳钢	316L	硅油	
+107	差压压力变送器	PMD55-NB21BB67HGBHAJA1C+AK(0~3bar)	E+H	PMD55	差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),3bar(差压)	0~3bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+108	差压压力变送器	PMD55-NB21BB67LGBHAJA1C+AK(0~6bar)	E+H	PMD55	差压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	现场显示与设置	M20	IP66/68	70bar(静压),16bar(差压)	0~6bar		NPT1/4内螺纹*2,适用于垂直引压管,与表头成90°角	316L	316L	硅油	
+109	差压压力变送器	EJA110E-JHS5J-919EA(0~3bar)	横河川仪	EJA110E	差压	无认证	非防爆	4-20mA HART	现场显示与设置	M20		-500~500kPa	0~3bar		NPT1/4内螺纹*2	316	哈氏合金C	硅油	
+110	差压压力变送器	EJA110E-JVS5J-919EA(0~6bar)	横河川仪	EJA110E	差压	无认证	隔爆	4-20mA HART	现场显示与设置	M20		-0.5~14Mpa	0~6bar		NPT1/4内螺纹*2	316	哈氏合金C	硅油	
+111	差压压力变送器	EJA110E-JHS5J-919EA/NF2(0~3bar)	横河川仪	EJA110E	差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	现场显示与设置	M20		-500~500kPa	0~3bar		NPT1/4内螺纹*2	316	哈氏合金C	硅油	
+112	差压压力变送器	EJA110E-JVS5J-919EA/NF2(0~6bar)	横河川仪	EJA110E	差压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	现场显示与设置	M20		-0.5~14Mpa	0~6bar		NPT1/4内螺纹*2	316	哈氏合金C	硅油	
+113	差压压力变送器	EJA110E-JHS5J-919EA/KF22(0~3bar)	横河川仪	EJA110E	差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	现场显示与设置	M20		-500~500kPa	0~3bar		NPT1/4内螺纹*2	316	哈氏合金C	硅油	
+114	差压压力变送器	EJA110E-JVS5J-919EA/KF22(0~6bar)	横河川仪	EJA110E	差压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	现场显示与设置	M20		-0.5~14Mpa	0~6bar		NPT1/4内螺纹*2	316	哈氏合金C	硅油	
+115	差压压力变送器	3051DP4A62A1BM5B4HR5(0~3bar)	艾默生	3051DP	差压	无认证	非防爆	4-20mA HART	本地显示	M20		-2070kPa~2070kPa	0~3bar		NPT1/4内螺纹*2	304	316L	硅油	
+116	差压压力变送器	3051DP4A62A1BM5B4HR5(0~6bar)	艾默生	3051DP	差压	无认证	非防爆	4-20mA HART	本地显示	M20		-2070kPa~2070kPa	0~6bar		NPT1/4内螺纹*2	304	316L	硅油	
+117	差压压力变送器	3051DP4A62A1BM5B4E3HR5(0~3bar)	艾默生	3051DP	差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-2070kPa~2070kPa	0~3bar		NPT1/4内螺纹*2	304	316L	硅油	
+118	差压压力变送器	3051DP4A62A1BM5B4E3HR5(0~6bar)	艾默生	3051DP	差压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		-2070kPa~2070kPa	0~6bar		NPT1/4内螺纹*2	304	316L	硅油	
+119	差压压力变送器	3051DP4A62A1BM5B4K8HR5(0~3bar)	艾默生	3051DP	差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-2070kPa~2070kPa	0~3bar		NPT1/4内螺纹*2	304	316L	硅油	
+120	差压压力变送器	3051DP4A62A1BM5B4K8HR5(0~6bar)	艾默生	3051DP	差压	ATEX 防火,本安, n 型,防尘	本安	4-20mA HART	本地显示	M20		-2070kPa~2070kPa	0~6bar		NPT1/4内螺纹*2	304	316L	硅油	

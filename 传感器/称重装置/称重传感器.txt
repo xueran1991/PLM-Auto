@@ -1,0 +1,46 @@
+					1	1	1	1	0	0
+序号	分类名称	供应商型号规格	品牌	产品系列	传感器类型	传感器单个量程	电缆长度	材质	精度	附加信息
+1	称重传感器	SWB505 MM CS 10kg 3m CN	托利多	MM	压式称重模块	10kg	3m	碳钢		
+2	称重传感器	SWB505 MM CS 20kg 3m CN	托利多	MM	压式称重模块	20kg	3m	碳钢		
+3	称重传感器	SWB505 MM CS 50kg 3m CN	托利多	MM	压式称重模块	50kg	3m	碳钢		
+4	称重传感器	SWB505 MM CS 100kg 3m CN	托利多	MM	压式称重模块	100kg	3m	碳钢		
+5	称重传感器	SWB505 MM SS 10kg 3m CN	托利多	MM	压式称重模块	10kg	3m	不锈钢		
+6	称重传感器	SWB505 MM SS 20kg 3m CN	托利多	MM	压式称重模块	20kg	3m	不锈钢		
+7	称重传感器	SWB505 MM SS 50kg 3m CN	托利多	MM	压式称重模块	50kg	3m	不锈钢		
+8	称重传感器	SWB505 MM SS 100kg 3m CN	托利多	MM	压式称重模块	100kg	3m	不锈钢		
+9	称重传感器	SWB505 MM CS 220kg  3m CN 	托利多	MM	压式称重模块	220kg	3m	碳钢		
+10	称重传感器	SWB505 MM CS 550kg 5m CN	托利多	MM	压式称重模块	550kg	5m	碳钢		
+11	称重传感器	SWB505 MM CS 1100kg 5m CN	托利多	MM	压式称重模块	1100kg	5m	碳钢		
+12	称重传感器	SWB505 MM CS 2200kg 5m CN	托利多	MM	压式称重模块	2200kg	5m	碳钢		
+13	称重传感器	SWB505 MM CS 4400kg 5m CN	托利多	MM	压式称重模块	4400kg	5m	碳钢		
+14	称重传感器	SWB505 MM CS 550kg 10m CN	托利多	MM	压式称重模块	550kg	10m	碳钢		
+15	称重传感器	SWB505 MM CS 1100kg 10m CN	托利多	MM	压式称重模块	1100kg	10m	碳钢		
+16	称重传感器	SWB505 MM CS 2200kg 10m CN	托利多	MM	压式称重模块	2200kg	10m	碳钢		
+17	称重传感器	SWB505 MM CS 4400kg 10m CN	托利多	MM	压式称重模块	4400kg	10m	碳钢		
+18	称重传感器	SWB505 MM SS 220kg  3m CN 	托利多	MM	压式称重模块	220kg	3m	不锈钢		
+19	称重传感器	SWB505 MM SS 550kg 5m CN	托利多	MM	压式称重模块	550kg	5m	不锈钢		
+20	称重传感器	SWB505 MM SS 1100kg 5m CN	托利多	MM	压式称重模块	1100kg	5m	不锈钢		
+21	称重传感器	SWB505 MM SS 2200kg 5m CN	托利多	MM	压式称重模块	2200kg	5m	不锈钢		
+22	称重传感器	SWB505 MM SS 4400kg 5m CN	托利多	MM	压式称重模块	4400kg	5m	不锈钢		
+23	称重传感器	SWB505 MM SS 550kg 10m CN	托利多	MM	压式称重模块	550kg	10m	不锈钢		
+24	称重传感器	SWB505 MM SS 1100kg 10m CN	托利多	MM	压式称重模块	1100kg	10m	不锈钢		
+25	称重传感器	SWB505 MM SS 2200kg 10m CN	托利多	MM	压式称重模块	2200kg	10m	不锈钢		
+26	称重传感器	SWB505 MM SS 4400kg 10m CN	托利多	MM	压式称重模块	4400kg	10m	不锈钢		
+27	称重传感器	SWC515 PM CS 7.5t 12m CN	托利多	PM	压式称重模块	7.5t	12m	碳钢		
+28	称重传感器	SWC515 PM CS 15t 12m CN	托利多	PM	压式称重模块	15t	12m	碳钢		
+29	称重传感器	SWC515 PM CS 22.5t 12m CN	托利多	PM	压式称重模块	22.5t	12m	碳钢		
+30	称重传感器	SWC515 PM CS 30t 13m CN	托利多	PM	压式称重模块	30t	13m	碳钢		
+31	称重传感器	SWC515 PM CS 50t 13m CN	托利多	PM	压式称重模块	50t	13m	碳钢		
+32	称重传感器	SWC515 PM CS 100t 13m CN	托利多	PM	压式称重模块	100t	13m	碳钢		
+33	称重传感器	SWC515 PM SS 7.5t 12m CN	托利多	PM	压式称重模块	7.5t	12m	不锈钢		
+34	称重传感器	SWC515 PM SS 15t 12m CN	托利多	PM	压式称重模块	15t	12m	不锈钢		
+35	称重传感器	SWC515 PM SS 22.5t 12m CN	托利多	PM	压式称重模块	22.5t	12m	不锈钢		
+36	称重传感器	SWC515 PM SS 30t 13m CN	托利多	PM	压式称重模块	30t	13m	不锈钢		
+37	称重传感器	SWC515 PM SS 50t 13m CN	托利多	PM	压式称重模块	50t	13m	不锈钢		
+38	称重传感器	SWC515 PM SS 100t 13m CN	托利多	PM	压式称重模块	100t	13m	不锈钢		
+39	称重传感器	TSC 50kg 5m CN	托利多	TSC	拉式称重传感器	50kg	5m	碳钢		
+40	称重传感器	TSC 100kg 5m CN	托利多	TSC	拉式称重传感器	100kg	5m	碳钢		
+41	称重传感器	TSC 200kg 5m CN	托利多	TSC	拉式称重传感器	200kg	5m	碳钢		
+42	称重传感器	TSC 300kg 5m CN	托利多	TSC	拉式称重传感器	300kg	5m	碳钢		
+43	称重传感器	TSC 500kg 5m CN	托利多	TSC	拉式称重传感器	500kg	5m	碳钢		
+44	称重传感器	TSC 1000kg 5m CN	托利多	TSC	拉式称重传感器	1000kg	5m	碳钢		

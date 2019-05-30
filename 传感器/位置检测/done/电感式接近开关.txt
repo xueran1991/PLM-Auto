@@ -1,0 +1,17 @@
+			1	1	1	0	1	1	0	1	1
+序号	分类名称	供应商型号规格	品牌	产品系列	尺寸	认证	防爆类型	感应距离	安装	电缆入口	供电及输出
+1	电感式接近开关	IFS282	易福门	IFS	M12*1,L=60mm	无	非防爆	7mm	非齐平安装	2m PUR 3芯电缆	24VDC,PNP,NC
+2	电感式接近开关	IFS705	易福门	IFS	M12*1,L=40mm	无	非防爆	7mm	非齐平安装	2m PUR 3芯电缆	24VDC,PNP,NC
+3	电感式接近开关	IGS702	易福门	IGS	M18*1,L=40mm	无	非防爆	8mm	齐平安装	2m PUR 3芯电缆	24VDC,PNP,NO
+4	电感式接近开关	IGS701	易福门	IGS	M18*1,L=40mm	无	非防爆	8mm	齐平安装	2m PUR 3芯电缆	24VDC,PNP,NC
+5	电感式接近开关	IGS705	易福门	IGS	M18*1,L=40mm	无	非防爆	12mm	非齐平安装	2m PUR 3芯电缆	24VDC,PNP,NO
+6	电感式接近开关	IGM203	易福门	IGM	M18*1,L=81mm	无	非防爆	12mm	非齐平安装	6m PUR 3芯电缆	24VDC,PNP,NO
+7	电感式接近开关	NG5001	易福门	NG	M18*1,L=33mm	ATEX II1GExiaIIBT6Ga、II2GExiaIICT6Gb（本安）	本安	5mm	齐平安装	2m PVC 2芯电缆	NAMUR放大器,NC
+8	电感式接近开关	NG5003	易福门	NG	M18*1,L=33mm	ATEX II1GExiaIIBT6Ga、II2GExiaIICT6Gb（本安）	本安	8mm	非齐平安装	2m PVC 2芯电缆	NAMUR放大器,NC
+9	电感式接近开关	NI500A+ENC04A	易福门	NI	M30*1.5,L=50mm	ATEX II1GExiaIIBT6Ga、II2GExiaIICT6Gb（本安）	本安	22mm	非齐平安装	M12插头,角插	NAMUR放大器,NC
+10	电感式接近开关	NI500A+ENC01A	易福门	NI	M30*1.5,L=50mm	ATEX II1GExiaIIBT6Ga、II2GExiaIICT6Gb（本安）	本安	22mm	非齐平安装	M12插头,直插	NAMUR放大器,NC
+11	电感式接近开关	NBB8-18GM30-E2	倍加福	NBB8	M18*1,L=30mm	无	非防爆	8mm	齐平安装	2m PVC 3芯电缆	24VDC,PNP,NO
+12	电感式接近开关	NBB8-18GM50-E2	倍加福	NBB8	M18*1,L=50mm	无	非防爆	8mm	齐平安装	2m PVC 3芯电缆	24VDC,PNP,NO
+13	电感式接近开关	NJ5-18GM-N	倍加福	NJ5	M18*1,L=40mm	ATEX II 1G Ex ia IIC T6（本安）	本安	5mm	齐平安装	2m PVC 2芯电缆	NAMUR放大器,NC
+14	电感式接近开关	BI8U-M18-AP6X	图尔克	BI8U	M30*1.5,L=50mm	无	非防爆	8mm	齐平安装	2m PVC 3芯电缆	24VDC,PNP,NO
+15	电感式接近开关	NI10-G18-Y1X	图尔克	NI10	M18*1,L=30mm	ATEX II 1G Ex ia IIC T6（本安）	本安	10mm	非齐平安装	2m PVC 2芯电缆	NAMUR放大器,NC

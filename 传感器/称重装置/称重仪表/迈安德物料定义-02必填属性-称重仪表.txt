@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--称重装置--称重仪表
+A353=mySupplierModelSpec,myA353_MountingType,myA353_OutputSignal,myA353_Power

@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--位置检测--电感式接近开关
+A347=mySupplierModelSpec,myA347_Brand,myA347_ProductLine,myA347_Size,myA347_ExType,myA347_SensingDistance,myA347_CableEntry,myA347_PowerAndSignalOutput

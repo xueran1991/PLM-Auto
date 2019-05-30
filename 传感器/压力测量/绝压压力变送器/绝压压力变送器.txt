@@ -1,0 +1,246 @@
+			1	1	1	0	1	1	1	1	0	1	1	1	0	1	1	0	0
+序号	分类名称	供应商型号规格	品牌	产品系列	应用类型	认证	防爆类型	信号输出	显示及操作	电缆入口	防护等级	过程连接	过程连接材质	膜片材质	填充油	量程	压力范围	精度	附加信息
+1	绝压压力变送器	PMP51-AA21JB2KGBGMJA1+AK(0~1bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.15%	
+2	绝压压力变送器	PMP51-AA21JB2KGBGMJA1+AK(0~2bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.15%	
+3	绝压压力变送器	PMP51-AA21JB2KGBG1JA1+AK(0~1bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.15%	
+4	绝压压力变送器	PMP51-AA21JB2KGBG1JA1+AK(0~2bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.15%	
+5	绝压压力变送器	PMP51-AA21JB2KGBR1CB1+AK(0~1bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~1bar	0~1bar Abs	±0.15%	
+6	绝压压力变送器	PMP51-AA21JB2KGBR1CB1+AK(0~2bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.15%	
+7	绝压压力变送器	PMP51-BC21JB2KGBGMJA1+AK(0~1bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.15%	
+8	绝压压力变送器	PMP51-BC21JB2KGBGMJA1+AK(0~2bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.15%	
+9	绝压压力变送器	PMP51-BC21JB2KGBG1JA1+AK(0~1bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.15%	
+10	绝压压力变送器	PMP51-BC21JB2KGBG1JA1+AK(0~2bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.15%	
+11	绝压压力变送器	PMP51-BC21JB2KGBR1CB1+AK(0~1bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~1bar	0~1bar Abs	±0.15%	
+12	绝压压力变送器	PMP51-BC21JB2KGBR1CB1+AK(0~2bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.15%	
+13	绝压压力变送器	PMP51-NB21JB2KGBGMJA1+AK(0~1bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.15%	
+14	绝压压力变送器	PMP51-NB21JB2KGBGMJA1+AK(0~2bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.15%	
+15	绝压压力变送器	PMP51-NB21JB2KGBG1JA1+AK(0~1bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.15%	
+16	绝压压力变送器	PMP51-NB21JB2KGBG1JA1+AK(0~2bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.15%	
+17	绝压压力变送器	PMP51-NB21JB2KGBR1CB1+AK(0~1bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~1bar	0~1bar Abs	±0.15%	
+18	绝压压力变送器	PMP51-NB21JB2KGBR1CB1+AK(0~2bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.15%	
+19	绝压压力变送器	PMP51-AA21JB2PGBGMJA1+AK(0~6bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.15%	
+20	绝压压力变送器	PMP51-AA21JB2PGBGMJA1+AK(0~10bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.15%	
+21	绝压压力变送器	PMP51-AA21JB2PGBG1JA1+AK(0~6bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.15%	
+22	绝压压力变送器	PMP51-AA21JB2PGBG1JA1+AK(0~10bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.15%	
+23	绝压压力变送器	PMP51-AA21JB2PGBR1CB1+AK(0~6bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~6bar	0~6bar Abs	±0.15%	
+24	绝压压力变送器	PMP51-AA21JB2PGBR1CB1+AK(0~10bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~10bar	0~10bar Abs	±0.15%	
+25	绝压压力变送器	PMP51-BC21JB2PGBGMJA1+AK(0~6bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.15%	
+26	绝压压力变送器	PMP51-BC21JB2PGBGMJA1+AK(0~10bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.15%	
+27	绝压压力变送器	PMP51-BC21JB2PGBG1JA1+AK(0~6bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.15%	
+28	绝压压力变送器	PMP51-BC21JB2PGBG1JA1+AK(0~10bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.15%	
+29	绝压压力变送器	PMP51-BC21JB2PGBR1CB1+AK(0~6bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~6bar	0~6bar Abs	±0.15%	
+30	绝压压力变送器	PMP51-BC21JB2PGBR1CB1+AK(0~10bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~10bar	0~10bar Abs	±0.15%	
+31	绝压压力变送器	PMP51-NB21JB2PGBGMJA1+AK(0~6bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.15%	
+32	绝压压力变送器	PMP51-NB21JB2PGBGMJA1+AK(0~10bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.15%	
+33	绝压压力变送器	PMP51-NB21JB2PGBG1JA1+AK(0~6bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.15%	
+34	绝压压力变送器	PMP51-NB21JB2PGBG1JA1+AK(0~10bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.15%	
+35	绝压压力变送器	PMP51-NB21JB2PGBR1CB1+AK(0~6bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~6bar	0~6bar Abs	±0.15%	
+36	绝压压力变送器	PMP51-NB21JB2PGBR1CB1+AK(0~10bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~10bar	0~10bar Abs	±0.15%	
+37	绝压压力变送器	PMP51-AA21JB2SGBGMJA1+AK(0~16bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.15%	
+38	绝压压力变送器	PMP51-AA21JB2SGBGMJA1+AK(0~25bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.15%	
+39	绝压压力变送器	PMP51-AA21JB2SGBG1JA1+AK(0~16bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.15%	
+40	绝压压力变送器	PMP51-AA21JB2SGBG1JA1+AK(0~25bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.15%	
+41	绝压压力变送器	PMP51-AA21JB2SGBR1CB1+AK(0~16bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~16bar	0~16bar Abs	±0.15%	
+42	绝压压力变送器	PMP51-AA21JB2SGBR1CB1+AK(0~25bar)	E+H	PMP51	普通绝压		非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~25bar	0~25bar Abs	±0.15%	
+43	绝压压力变送器	PMP51-BC21JB2SGBGMJA1+AK(0~16bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.15%	
+44	绝压压力变送器	PMP51-BC21JB2SGBGMJA1+AK(0~25bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.15%	
+45	绝压压力变送器	PMP51-BC21JB2SGBG1JA1+AK(0~16bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.15%	
+46	绝压压力变送器	PMP51-BC21JB2SGBG1JA1+AK(0~25bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.15%	
+47	绝压压力变送器	PMP51-BC21JB2SGBR1CB1+AK(0~16bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~16bar	0~16bar Abs	±0.15%	
+48	绝压压力变送器	PMP51-BC21JB2SGBR1CB1+AK(0~25bar)	E+H	PMP51	普通绝压	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~25bar	0~25bar Abs	±0.15%	
+49	绝压压力变送器	PMP51-NB21JB2SGBGMJA1+AK(0~16bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.15%	
+50	绝压压力变送器	PMP51-NB21JB2SGBGMJA1+AK(0~25bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	G1/2外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.15%	
+51	绝压压力变送器	PMP51-NB21JB2SGBG1JA1+AK(0~16bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.15%	
+52	绝压压力变送器	PMP51-NB21JB2SGBG1JA1+AK(0~25bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	M20*1.5外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.15%	
+53	绝压压力变送器	PMP51-NB21JB2SGBR1CB1+AK(0~16bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~16bar	0~16bar Abs	±0.15%	
+54	绝压压力变送器	PMP51-NB21JB2SGBR1CB1+AK(0~25bar)	E+H	PMP51	普通绝压	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP68	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~25bar	0~25bar Abs	±0.15%	
+55	绝压压力变送器	EJA510E-JAS8N-019EN(0~1bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~1bar	0~2bar Abs	±0.055%	
+56	绝压压力变送器	EJA510E-JAS8N-019EN(0~2bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.055%	
+57	绝压压力变送器	EJA510E-JBS8N-019EN(0~6bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~6bar	0~20bar Abs	±0.055%	
+58	绝压压力变送器	EJA510E-JBS8N-019EN(0~10bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~10bar	0~20bar Abs	±0.055%	
+59	绝压压力变送器	EJA510E-JBS8N-019EN(0~16bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~16bar	0~20bar Abs	±0.055%	
+60	绝压压力变送器	EJA510E-JCS8N-019EN(0~25bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~25bar	0~100bar Abs	±0.055%	
+61	绝压压力变送器	EJA510E-JAS9N-019EN(0~1bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~1bar	0~2bar Abs	±0.055%	
+62	绝压压力变送器	EJA510E-JAS9N-019EN(0~2bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.055%	
+63	绝压压力变送器	EJA510E-JBS9N-019EN(0~6bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~6bar	0~20bar Abs	±0.055%	
+64	绝压压力变送器	EJA510E-JBS9N-019EN(0~10bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~10bar	0~20bar Abs	±0.055%	
+65	绝压压力变送器	EJA510E-JBS9N-019EN(0~16bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~16bar	0~20bar Abs	±0.055%	
+66	绝压压力变送器	EJA510E-JCS9N-019EN(0~25bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~25bar	0~100bar Abs	±0.055%	
+67	绝压压力变送器	EJA510E-JAH4N-019EN(0~1bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~1bar	0~2bar Abs	±0.055%	
+68	绝压压力变送器	EJA510E-JAH4N-019EN(0~2bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.055%	
+69	绝压压力变送器	EJA510E-JBH4N-019EN(0~6bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~6bar	0~20bar Abs	±0.055%	
+70	绝压压力变送器	EJA510E-JBH4N-019EN(0~10bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~10bar	0~20bar Abs	±0.055%	
+71	绝压压力变送器	EJA510E-JBH4N-019EN(0~16bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~16bar	0~20bar Abs	±0.055%	
+72	绝压压力变送器	EJA510E-JCH4N-019EN(0~25bar)	横河川仪	EJA510E	普通绝压	无认证	非防爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~25bar	0~100bar Abs	±0.055%	
+73	绝压压力变送器	EJA510E-JAS8N-019EN/NF2(0~1bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~1bar	0~2bar Abs	±0.055%	
+74	绝压压力变送器	EJA510E-JAS8N-019EN/NF2(0~2bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.055%	
+75	绝压压力变送器	EJA510E-JBS8N-019EN/NF2(0~6bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~6bar	0~20bar Abs	±0.055%	
+76	绝压压力变送器	EJA510E-JBS8N-019EN/NF2(0~10bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~10bar	0~20bar Abs	±0.055%	
+77	绝压压力变送器	EJA510E-JBS8N-019EN/NF2(0~16bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~16bar	0~20bar Abs	±0.055%	
+78	绝压压力变送器	EJA510E-JCS8N-019EN/NF2(0~25bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~25bar	0~100bar Abs	±0.055%	
+79	绝压压力变送器	EJA510E-JAS9N-019EN/NF2(0~1bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~1bar	0~2bar Abs	±0.055%	
+80	绝压压力变送器	EJA510E-JAS9N-019EN/NF2(0~2bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.055%	
+81	绝压压力变送器	EJA510E-JBS9N-019EN/NF2(0~6bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~6bar	0~20bar Abs	±0.055%	
+82	绝压压力变送器	EJA510E-JBS9N-019EN/NF2(0~10bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~10bar	0~20bar Abs	±0.055%	
+83	绝压压力变送器	EJA510E-JBS9N-019EN/NF2(0~16bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~16bar	0~20bar Abs	±0.055%	
+84	绝压压力变送器	EJA510E-JCS9N-019EN/NF2(0~25bar)	横河川仪	EJA510E	普通绝压	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~25bar	0~100bar Abs	±0.055%	
+85	绝压压力变送器	EJA510E-JAS8N-019EN/KF22(0~1bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~1bar	0~2bar Abs	±0.055%	
+86	绝压压力变送器	EJA510E-JAS8N-019EN/KF22(0~2bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.055%	
+87	绝压压力变送器	EJA510E-JBS8N-019EN/KF22(0~6bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~6bar	0~20bar Abs	±0.055%	
+88	绝压压力变送器	EJA510E-JBS8N-019EN/KF22(0~10bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~10bar	0~20bar Abs	±0.055%	
+89	绝压压力变送器	EJA510E-JBS8N-019EN/KF22(0~16bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~16bar	0~20bar Abs	±0.055%	
+90	绝压压力变送器	EJA510E-JCS8N-019EN/KF22(0~25bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	G1/2内螺纹	316L	哈氏合金C	硅油	0~25bar	0~100bar Abs	±0.055%	
+91	绝压压力变送器	EJA510E-JAS9N-019EN/KF22(0~1bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~1bar	0~2bar Abs	±0.055%	
+92	绝压压力变送器	EJA510E-JAS9N-019EN/KF22(0~2bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.055%	
+93	绝压压力变送器	EJA510E-JBS9N-019EN/KF22(0~6bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~6bar	0~20bar Abs	±0.055%	
+94	绝压压力变送器	EJA510E-JBS9N-019EN/KF22(0~10bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~10bar	0~20bar Abs	±0.055%	
+95	绝压压力变送器	EJA510E-JBS9N-019EN/KF22(0~16bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~16bar	0~20bar Abs	±0.055%	
+96	绝压压力变送器	EJA510E-JCS9N-019EN/KF22(0~25bar)	横河川仪	EJA510E	普通绝压	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示及操作	M20*1.5	IP66/IP67	M20*1.5内螺纹	316L	哈氏合金C	硅油	0~25bar	0~100bar Abs	±0.055%	
+97	绝压压力变送器	2088A1S22B2M5HR5(0~1bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+98	绝压压力变送器	2088A1S22B2M5HR5(0~2bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+99	绝压压力变送器	2088A2S22B2M5HR5(0~6bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+100	绝压压力变送器	2088A2S22B2M5HR5(0~10bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+101	绝压压力变送器	2088A3S22B2M5HR5(0~16bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+102	绝压压力变送器	2088A3S22B2M5HR5(0~25bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+103	绝压压力变送器	2088A1S22D2M5HR5(0~1bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+104	绝压压力变送器	2088A1S22D2M5HR5(0~2bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+105	绝压压力变送器	2088A2S22D2M5HR5(0~6bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+106	绝压压力变送器	2088A2S22D2M5HR5(0~10bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+107	绝压压力变送器	2088A3S22D2M5HR5(0~16bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+108	绝压压力变送器	2088A3S22D2M5HR5(0~25bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+109	绝压压力变送器	2088A1S22A2M5HR5(0~1bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+110	绝压压力变送器	2088A1S22A2M5HR5(0~2bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+111	绝压压力变送器	2088A2S22A2M5HR5(0~6bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+112	绝压压力变送器	2088A2S22A2M5HR5(0~10bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+113	绝压压力变送器	2088A3S22A2M5HR5(0~16bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+114	绝压压力变送器	2088A3S22A2M5HR5(0~25bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+115	绝压压力变送器	2088A1S33A2M5HR5(0~1bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~1bar	0~1bar Abs	±0.075%	
+116	绝压压力变送器	2088A1S33A2M5HR5(0~2bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~2bar	0~2bar Abs	±0.075%	
+117	绝压压力变送器	2088A2S33A2M5HR5(0~6bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~6bar	0~6bar Abs	±0.075%	
+118	绝压压力变送器	2088A2S33A2M5HR5(0~10bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~10bar	0~10bar Abs	±0.075%	
+119	绝压压力变送器	2088A3S33A2M5HR5(0~16bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~16bar	0~16bar Abs	±0.075%	
+120	绝压压力变送器	2088A3S33A2M5HR5(0~25bar)	艾默生	2088A	普通绝压	无认证	非防爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	哈氏合金C	哈氏合金C	硅油	0~25bar	0~25bar Abs	±0.075%	
+121	绝压压力变送器	2088A1S22B2M5E3HR5(0~1bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+122	绝压压力变送器	2088A1S22B2M5E3HR5(0~2bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+123	绝压压力变送器	2088A2S22B2M5E3HR5(0~6bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+124	绝压压力变送器	2088A2S22B2M5E3HR5(0~10bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+125	绝压压力变送器	2088A3S22B2M5E3HR5(0~16bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+126	绝压压力变送器	2088A3S22B2M5E3HR5(0~25bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+127	绝压压力变送器	2088A1S22D2M5E3HR5(0~1bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+128	绝压压力变送器	2088A1S22D2M5E3HR5(0~2bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+129	绝压压力变送器	2088A2S22D2M5E3HR5(0~6bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+130	绝压压力变送器	2088A2S22D2M5E3HR5(0~10bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+131	绝压压力变送器	2088A3S22D2M5E3HR5(0~16bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+132	绝压压力变送器	2088A3S22D2M5E3HR5(0~25bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+133	绝压压力变送器	2088A1S22A2M5E3HR5(0~1bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+134	绝压压力变送器	2088A1S22A2M5E3HR5(0~2bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+135	绝压压力变送器	2088A2S22A2M5E3HR5(0~6bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+136	绝压压力变送器	2088A2S22A2M5E3HR5(0~10bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+137	绝压压力变送器	2088A3S22A2M5E3HR5(0~16bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+138	绝压压力变送器	2088A3S22A2M5E3HR5(0~25bar)	艾默生	2088A	普通绝压	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+139	绝压压力变送器	2088A1S22B2M5KHHR5(0~1bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+140	绝压压力变送器	2088A1S22B2M5KHHR5(0~2bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+141	绝压压力变送器	2088A2S22B2M5KHHR5(0~6bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+142	绝压压力变送器	2088A2S22B2M5KHHR5(0~10bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+143	绝压压力变送器	2088A3S22B2M5KHHR5(0~16bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+144	绝压压力变送器	2088A3S22B2M5KHHR5(0~25bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	G1/2外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+145	绝压压力变送器	2088A1S22D2M5KHHR5(0~1bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+146	绝压压力变送器	2088A1S22D2M5KHHR5(0~2bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+147	绝压压力变送器	2088A2S22D2M5KHHR5(0~6bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+148	绝压压力变送器	2088A2S22D2M5KHHR5(0~10bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+149	绝压压力变送器	2088A3S22D2M5KHHR5(0~16bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+150	绝压压力变送器	2088A3S22D2M5KHHR5(0~25bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	M20*1.5外螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+151	绝压压力变送器	2088A1S22A2M5KHHR5(0~1bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~1bar	0~1bar Abs	±0.075%	
+152	绝压压力变送器	2088A1S22A2M5KHHR5(0~2bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~2bar	0~2bar Abs	±0.075%	
+153	绝压压力变送器	2088A2S22A2M5KHHR5(0~6bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~6bar	0~6bar Abs	±0.075%	
+154	绝压压力变送器	2088A2S22A2M5KHHR5(0~10bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~10bar	0~10bar Abs	±0.075%	
+155	绝压压力变送器	2088A3S22A2M5KHHR5(0~16bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~16bar	0~16bar Abs	±0.075%	
+156	绝压压力变送器	2088A3S22A2M5KHHR5(0~25bar)	艾默生	2088A	普通绝压	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20*1.5	IP65/IP67	NPT1/2内螺纹	316L	316L	硅油	0~25bar	0~25bar Abs	±0.075%	
+157	绝压压力变送器	PMC51-AA21JB2CGBGMJA+AK(0~25mbar)	E+H	PMC51	高真空		非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	氧化铝陶瓷		0~25mbar	0-100mbar Abs	±0.15%	
+158	绝压压力变送器	PMC51-AA21JB2CGBGMJA+AK(0~50mbar)	E+H	PMC51	高真空		非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	氧化铝陶瓷		0~50mbar	0-100mbar Abs	±0.15%	
+159	绝压压力变送器	PMC51-AA21JB2CGBGMJA+AK(0~100mbar)	E+H	PMC51	高真空		非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	氧化铝陶瓷		0~100mbar	0-100mbar Abs	±0.15%	
+160	绝压压力变送器	PMP51-AA21JB2FGBGMJA1+AK(0~100mbar)	E+H	PMP51	高真空	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~100mbar	0-400mbar Abs	±0.15%	
+161	绝压压力变送器	PMP51-AA21JB2FGBGMJA1+AK(0~200mbar)	E+H	PMP51	高真空	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~200mbar	0-400mbar Abs	±0.15%	
+162	绝压压力变送器	PMP51-AA21JB2FGBGMJA1+AK(0~300mbar)	E+H	PMP51	高真空	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~300mbar	0-400mbar Abs	±0.15%	
+163	绝压压力变送器	PMP51-AA21JB2FGBGMJA1+AK(0~400mbar)	E+H	PMP51	高真空	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~400mbar	0-400mbar Abs	±0.15%	
+164	绝压压力变送器	PMP51-AA21JB2FGBG1JA1+AK(0~100mbar)	E+H	PMP51	高真空	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~100mbar	0-400mbar Abs	±0.15%	
+165	绝压压力变送器	PMP51-AA21JB2FGBG1JA1+AK(0~200mbar)	E+H	PMP51	高真空	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~200mbar	0-400mbar Abs	±0.15%	
+166	绝压压力变送器	PMP51-AA21JB2FGBG1JA1+AK(0~300mbar)	E+H	PMP51	高真空	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~300mbar	0-400mbar Abs	±0.15%	
+167	绝压压力变送器	PMP51-AA21JB2FGBG1JA1+AK(0~400mbar)	E+H	PMP51	高真空	非防爆区	非防爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~400mbar	0-400mbar Abs	±0.15%	
+168	绝压压力变送器	PMP51-BC21JB2FGBGMJA1+AK(0~100mbar)	E+H	PMP51	高真空	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~100mbar	0-400mbar Abs	±0.15%	
+169	绝压压力变送器	PMP51-BC21JB2FGBGMJA1+AK(0~200mbar)	E+H	PMP51	高真空	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~200mbar	0-400mbar Abs	±0.15%	
+170	绝压压力变送器	PMP51-BC21JB2FGBGMJA1+AK(0~300mbar)	E+H	PMP51	高真空	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~300mbar	0-400mbar Abs	±0.15%	
+171	绝压压力变送器	PMP51-BC21JB2FGBGMJA1+AK(0~400mbar)	E+H	PMP51	高真空	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~400mbar	0-400mbar Abs	±0.15%	
+172	绝压压力变送器	PMP51-BC21JB2FGBG1JA1+AK(0~100mbar)	E+H	PMP51	高真空	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~100mbar	0-400mbar Abs	±0.15%	
+173	绝压压力变送器	PMP51-BC21JB2FGBG1JA1+AK(0~200mbar)	E+H	PMP51	高真空	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~200mbar	0-400mbar Abs	±0.15%	
+174	绝压压力变送器	PMP51-BC21JB2FGBG1JA1+AK(0~300mbar)	E+H	PMP51	高真空	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~300mbar	0-400mbar Abs	±0.15%	
+175	绝压压力变送器	PMP51-BC21JB2FGBG1JA1+AK(0~400mbar)	E+H	PMP51	高真空	ATEX II 2G Ex d IIC T6	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~400mbar	0-400mbar Abs	±0.15%	
+176	绝压压力变送器	PMP51-NB21JB2FGBGMJA1+AK(0~100mbar)	E+H	PMP51	高真空	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~100mbar	0-400mbar Abs	±0.15%	
+177	绝压压力变送器	PMP51-NB21JB2FGBGMJA1+AK(0~200mbar)	E+H	PMP51	高真空	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~200mbar	0-400mbar Abs	±0.15%	
+178	绝压压力变送器	PMP51-NB21JB2FGBGMJA1+AK(0~300mbar)	E+H	PMP51	高真空	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~300mbar	0-400mbar Abs	±0.15%	
+179	绝压压力变送器	PMP51-NB21JB2FGBGMJA1+AK(0~400mbar)	E+H	PMP51	高真空	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	G1/2外螺纹	316L	316L	硅油	0~400mbar	0-400mbar Abs	±0.15%	
+180	绝压压力变送器	PMP51-NB21JB2FGBG1JA1+AK(0~100mbar)	E+H	PMP51	高真空	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~100mbar	0-400mbar Abs	±0.15%	
+181	绝压压力变送器	PMP51-NB21JB2FGBG1JA1+AK(0~200mbar)	E+H	PMP51	高真空	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~200mbar	0-400mbar Abs	±0.15%	
+182	绝压压力变送器	PMP51-NB21JB2FGBG1JA1+AK(0~300mbar)	E+H	PMP51	高真空	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~300mbar	0-400mbar Abs	±0.15%	
+183	绝压压力变送器	PMP51-NB21JB2FGBG1JA1+AK(0~400mbar)	E+H	PMP51	高真空	NEPSI Ex d IIC T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/68	M20*1.5外螺纹	316L	316L	硅油	0~400mbar	0-400mbar Abs	±0.15%	
+184	绝压压力变送器	EJA310E-JLS0J-919EA(0~25mbar)	横河川仪	EJA310E	高真空		非防爆	4-20mA HART	本地显示和设置	M20		无过程接头（容室法兰上有Rc1/4内螺纹）	316L	哈氏合金C		0~25mbar	0-100mbar Abs	±0.15%	
+185	绝压压力变送器	EJA310E-JLS0J-919EA(0~50mbar)	横河川仪	EJA310E	高真空		非防爆	4-20mA HART	本地显示和设置	M20		无过程接头（容室法兰上有Rc1/4内螺纹）	316L	哈氏合金C		0~50mbar	0-100mbar Abs	±0.15%	
+186	绝压压力变送器	EJA310E-JLS0J-919EA(0~100mbar)	横河川仪	EJA310E	高真空		非防爆	4-20mA HART	本地显示和设置	M20		无过程接头（容室法兰上有Rc1/4内螺纹）	316L	哈氏合金C		0~100mbar	0-100mbar Abs	±0.15%	
+187	绝压压力变送器	EJA310E-JLS5J-919EA(0~25mbar)	横河川仪	EJA310E	高真空		非防爆	4-20mA HART	本地显示和设置	M20		无过程接头（容室法兰上有1/4NPT内螺纹）	316L	哈氏合金C		0~25mbar	0-100mbar Abs	±0.15%	
+188	绝压压力变送器	EJA310E-JLS5J-919EA(0~50mbar)	横河川仪	EJA310E	高真空		非防爆	4-20mA HART	本地显示和设置	M20		无过程接头（容室法兰上有1/4NPT内螺纹）	316L	哈氏合金C		0~50mbar	0-100mbar Abs	±0.15%	
+189	绝压压力变送器	EJA310E-JLS5J-919EA(0~100mbar)	横河川仪	EJA310E	高真空		非防爆	4-20mA HART	本地显示和设置	M20		无过程接头（容室法兰上有1/4NPT内螺纹）	316L	哈氏合金C		0~100mbar	0-100mbar Abs	±0.15%	
+190	绝压压力变送器	EJA510E-JAS8N-019EN(0~100mbar)	横河川仪	EJA510E	高真空	无认证	非防爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~100mbar	0-2bar Abs	±0.055%	
+191	绝压压力变送器	EJA510E-JAS8N-019EN(0~200mbar)	横河川仪	EJA510E	高真空	无认证	非防爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~200mbar	0-2bar Abs	±0.055%	
+192	绝压压力变送器	EJA510E-JAS8N-019EN(0~300mbar)	横河川仪	EJA510E	高真空	无认证	非防爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~300mbar	0-2bar Abs	±0.055%	
+193	绝压压力变送器	EJA510E-JAS8N-019EN(0~400mbar)	横河川仪	EJA510E	高真空	无认证	非防爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~400mbar	0-2bar Abs	±0.055%	
+194	绝压压力变送器	EJA510E-JAS9N-019EN(0~100mbar)	横河川仪	EJA510E	高真空	无认证	非防爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~100mbar	0-2bar Abs	±0.055%	
+195	绝压压力变送器	EJA510E-JAS9N-019EN(0~200mbar)	横河川仪	EJA510E	高真空	无认证	非防爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~200mbar	0-2bar Abs	±0.055%	
+196	绝压压力变送器	EJA510E-JAS9N-019EN(0~300mbar)	横河川仪	EJA510E	高真空	无认证	非防爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~300mbar	0-2bar Abs	±0.055%	
+197	绝压压力变送器	EJA510E-JAS9N-019EN(0~400mbar)	横河川仪	EJA510E	高真空	无认证	非防爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~400mbar	0-2bar Abs	±0.055%	
+198	绝压压力变送器	EJA510E-JAS8N-019EN/NF2(0~100mbar)	横河川仪	EJA510E	高真空	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~100mbar	0-2bar Abs	±0.055%	
+199	绝压压力变送器	EJA510E-JAS8N-019EN/NF2(0~200mbar)	横河川仪	EJA510E	高真空	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~200mbar	0-2bar Abs	±0.055%	
+200	绝压压力变送器	EJA510E-JAS8N-019EN/NF2(0~300mbar)	横河川仪	EJA510E	高真空	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~300mbar	0-2bar Abs	±0.055%	
+201	绝压压力变送器	EJA510E-JAS8N-019EN/NF2(0~400mbar)	横河川仪	EJA510E	高真空	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~400mbar	0-2bar Abs	±0.055%	
+202	绝压压力变送器	EJA510E-JAS9N-019EN/NF2(0~100mbar)	横河川仪	EJA510E	高真空	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~100mbar	0-2bar Abs	±0.055%	
+203	绝压压力变送器	EJA510E-JAS9N-019EN/NF2(0~200mbar)	横河川仪	EJA510E	高真空	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~200mbar	0-2bar Abs	±0.055%	
+204	绝压压力变送器	EJA510E-JAS9N-019EN/NF2(0~300mbar)	横河川仪	EJA510E	高真空	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~300mbar	0-2bar Abs	±0.055%	
+205	绝压压力变送器	EJA510E-JAS9N-019EN/NF2(0~400mbar)	横河川仪	EJA510E	高真空	NEPSI Ex d IIC T4~T6 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~400mbar	0-2bar Abs	±0.055%	
+206	绝压压力变送器	EJA510E-JAS8N-019EN/KF22(0~100mbar)	横河川仪	EJA510E	高真空	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~100mbar	0-2bar Abs	±0.055%	
+207	绝压压力变送器	EJA510E-JAS8N-019EN/KF22(0~200mbar)	横河川仪	EJA510E	高真空	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~200mbar	0-2bar Abs	±0.055%	
+208	绝压压力变送器	EJA510E-JAS8N-019EN/KF22(0~300mbar)	横河川仪	EJA510E	高真空	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~300mbar	0-2bar Abs	±0.055%	
+209	绝压压力变送器	EJA510E-JAS8N-019EN/KF22(0~400mbar)	横河川仪	EJA510E	高真空	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	G1/2外螺纹	316L	哈氏合金C	硅油	0~400mbar	0-2bar Abs	±0.055%	
+210	绝压压力变送器	EJA510E-JAS9N-019EN/KF22(0~100mbar)	横河川仪	EJA510E	高真空	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~100mbar	0-2bar Abs	±0.055%	
+211	绝压压力变送器	EJA510E-JAS9N-019EN/KF22(0~200mbar)	横河川仪	EJA510E	高真空	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~200mbar	0-2bar Abs	±0.055%	
+212	绝压压力变送器	EJA510E-JAS9N-019EN/KF22(0~300mbar)	横河川仪	EJA510E	高真空	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~300mbar	0-2bar Abs	±0.055%	
+213	绝压压力变送器	EJA510E-JAS9N-019EN/KF22(0~400mbar)	横河川仪	EJA510E	高真空	ATEX 2D Exd IIC T6~T4 Gb	隔爆	4-20mA HART	本地显示和设置	M20	IP66/IP67	M20*1.5外螺纹	316L	哈氏合金C	硅油	0~400mbar	0-2bar Abs	±0.055%	
+214	绝压压力变送器	2051TA1A2B21BM5(0~25mbar)	艾默生	2051T	高真空		非防爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~25mbar	0-2.1bar Abs	±0.065%	
+215	绝压压力变送器	2051TA1A2B21BM5(0~50mbar)	艾默生	2051T	高真空		非防爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~50mbar	0-2.1bar Abs	±0.065%	
+216	绝压压力变送器	2051TA1A2B21BM5(0~100mbar)	艾默生	2051T	高真空		非防爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~100mbar	0-2.1bar Abs	±0.065%	
+217	绝压压力变送器	2051TA1A2B21BM5(0~200mbar)	艾默生	2051T	高真空		非防爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.065%	
+218	绝压压力变送器	2088A1S22B2M5HR5(0~200mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+219	绝压压力变送器	2088A1S22B2M5HR5(0~300mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+220	绝压压力变送器	2088A1S22B2M5HR5(0~400mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
+221	绝压压力变送器	2088A1S22D2M5HR5(0~200mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+222	绝压压力变送器	2088A1S22D2M5HR5(0~300mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+223	绝压压力变送器	2088A1S22D2M5HR5(0~400mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
+224	绝压压力变送器	2088A1S22A2M5HR5(0~200mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+225	绝压压力变送器	2088A1S22A2M5HR5(0~300mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+226	绝压压力变送器	2088A1S22A2M5HR5(0~400mbar)	艾默生	2088A	高真空	无认证	非防爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
+227	绝压压力变送器	2088A1S22B2M5E3HR5(0~200mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+228	绝压压力变送器	2088A1S22B2M5E3HR5(0~300mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+229	绝压压力变送器	2088A1S22B2M5E3HR5(0~400mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
+230	绝压压力变送器	2088A1S22D2M5E3HR5(0~200mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+231	绝压压力变送器	2088A1S22D2M5E3HR5(0~300mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+232	绝压压力变送器	2088A1S22D2M5E3HR5(0~400mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
+233	绝压压力变送器	2088A1S22A2M5E3HR5(0~200mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+234	绝压压力变送器	2088A1S22A2M5E3HR5(0~300mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+235	绝压压力变送器	2088A1S22A2M5E3HR5(0~400mbar)	艾默生	2088A	高真空	中国防火(ExdIICT4/T6)	隔爆	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
+236	绝压压力变送器	2088A1S22B2M5KHHR5(0~200mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+237	绝压压力变送器	2088A1S22B2M5KHHR5(0~300mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+238	绝压压力变送器	2088A1S22B2M5KHHR5(0~400mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		G1/2外螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
+239	绝压压力变送器	2088A1S22D2M5KHHR5(0~200mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+240	绝压压力变送器	2088A1S22D2M5KHHR5(0~300mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+241	绝压压力变送器	2088A1S22D2M5KHHR5(0~400mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		M20*1.5外螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
+242	绝压压力变送器	2088A1S22A2M5KHHR5(0~200mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~200mbar	0-2.1bar Abs	±0.075%	
+243	绝压压力变送器	2088A1S22A2M5KHHR5(0~300mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~300mbar	0-2.1bar Abs	±0.075%	
+244	绝压压力变送器	2088A1S22A2M5KHHR5(0~400mbar)	艾默生	2088A	高真空	FM认证与ATEX防爆和本安(K5、ED、I1)	本安	4-20mA HART	本地显示	M20		NPT1/2内螺纹	316L	316L	硅油	0~400mbar	0-2.1bar Abs	±0.075%	
