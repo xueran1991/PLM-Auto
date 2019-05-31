@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--电量仪表类--电流表
+A034=mySupplierModelSpec,myA034_Brand,myA034_ProductLine,myA034_InputMode,myA034_DesignASequenceNumber,myA034_Type,myA034_TheCircuitUnderTestIsConnected,myA034_Range

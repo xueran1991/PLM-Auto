@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--通讯电缆
+A109=mySupplierModelSpec,myA109_Brand,myA109_ProductLine

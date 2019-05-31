@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--音箱--音箱
+A130=mySupplierModelSpec,myA130_Brand,myA130_ProductLine

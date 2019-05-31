@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--电源
+A100=mySupplierModelSpec,myA100_Brand,myA100_ProductLine,myA100_Input,myA100_Output

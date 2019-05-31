@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--流量测量--电磁流量计
+A318=mySupplierModelSpec,myA318_Brand,myA318_ProductLine,myA318_LiningMaterial,myA318_ElectrodeMaterial,myA318_Meter,myA318_ConnectionStandard,myA318_Power,myA318_OutputSignal

@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--连续物位测量--超声波物位传感器
+A301=mySupplierModelSpec,myA301_Brand,myA301_ProductLine,myA301_ProcessConnection,myA301_DisplayOperation,myA301_ElectricMounting,myA301_OutputSignal,myA301_SensorRange,myA301_Deadband

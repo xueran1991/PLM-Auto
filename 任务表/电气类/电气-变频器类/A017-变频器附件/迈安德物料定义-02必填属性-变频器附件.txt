@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--变频器类--变频器附件
+A017=mySupplierModelSpec,myA017_Brand,myA017_ProductLine,myA017_TheProductName

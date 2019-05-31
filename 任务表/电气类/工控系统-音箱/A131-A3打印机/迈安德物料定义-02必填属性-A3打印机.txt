@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--打印机--A3打印机
+A131=mySupplierModelSpec,myA131_Brand,myA131_ProductLine

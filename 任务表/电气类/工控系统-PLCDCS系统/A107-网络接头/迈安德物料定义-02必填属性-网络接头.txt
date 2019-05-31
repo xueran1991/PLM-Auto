@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--网络接头
+A107=mySupplierModelSpec,myA107_Brand,myA107_ProductLine

@@ -1,0 +1,27 @@
+品牌	Brand
+产品系列	ProductLine
+输入方式	InputMode
+设计序号	DesignASequenceNumber
+类型	Type
+被测电路接通方式	TheCircuitUnderTestIsConnected
+量程	Range
+仪表外形	InstrumentAppearance
+开孔尺寸	TheSizeOfHole
+功能代号	FunctionCode
+显示方式	DisplayMode
+输入电压	TheInputVoltage
+输入电流	InputCurrent
+电源电压范围	SupplyVoltageRange
+继电器越限报警输出配置	RelayOverLimitAlarmOutputConfiguration
+模拟量输出配置	AnalogOutputConfiguration
+通讯接口配置	CommunicationInterfaceConfiguration
+开关量输入输出 I/O模块配置	SwitchInput/outputI/OModuleConfiguration
+标准脉冲输出配置	StandardPulseOutputConfiguration
+量程	Range
+
+
+
+
+
+
+

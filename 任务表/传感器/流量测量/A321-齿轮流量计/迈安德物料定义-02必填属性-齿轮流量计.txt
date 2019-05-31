@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--流量测量--齿轮流量计
+A321=mySupplierModelSpec,myA321_Brand,myA321_ProductLine,myA321_Meter,myA321_ProcessConnection,myA321_Material,myA321_Power,myA321_OutputSignal

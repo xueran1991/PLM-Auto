@@ -1,0 +1,15 @@
+品牌	Brand
+产品系列	ProductLine
+极数	The number of
+额定工作电流	RatedOperatingCurrent
+负载类型	TheLoadType
+接线方式	ConnectionMode
+线圈电压	TheCoilVoltage
+线圈类型	TheCoilType
+线圈电压频率	CoilVoltageFrequency
+产地	Origin
+安装位置	InstallationPosition
+触点型式	ContactType
+接线方式	ConnectionMode
+派生代号	TheDerivedCode
+

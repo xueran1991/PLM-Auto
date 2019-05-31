@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机配件--鼠标
+A122=mySupplierModelSpec,myA122_Brand,myA122_ProductLine

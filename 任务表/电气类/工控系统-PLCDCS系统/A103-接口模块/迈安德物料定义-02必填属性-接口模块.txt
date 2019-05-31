@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--接口模块
+A103=mySupplierModelSpec,myA103_Brand,myA103_ProductLine

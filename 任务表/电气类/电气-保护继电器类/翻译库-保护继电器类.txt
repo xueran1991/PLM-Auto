@@ -1,0 +1,7 @@
+品牌	Brand
+产品系列	ProductLine
+供电电压	ThePowerSupplyVoltage
+触点	Contact
+备注	Note
+检测功能	DetectionFunction
+输出触点	TheOutputContacts

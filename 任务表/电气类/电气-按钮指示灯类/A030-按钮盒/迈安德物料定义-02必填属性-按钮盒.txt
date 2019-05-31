@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--按钮指示灯类--按钮盒
+A030=mySupplierModelSpec,myA030_Brand,myA030_ProductLine,myA030_TheProductName,myA030_Specifications

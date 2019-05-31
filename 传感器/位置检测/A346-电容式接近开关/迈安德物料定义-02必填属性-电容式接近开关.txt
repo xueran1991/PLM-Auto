@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--位置检测--电容式接近开关
+A346=mySupplierModelSpec,myA346_Brand,myA346_ProductLine,myA346_SensingDistance,myA346_Power,myA346_OutputSignal

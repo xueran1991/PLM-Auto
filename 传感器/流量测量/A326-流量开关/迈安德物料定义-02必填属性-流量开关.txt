@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--流量测量--流量开关
+A326=mySupplierModelSpec,myA326_Brand,myA326_ProductLine,myA326_MeasureType,myA326_ProcessConnection,myA326_ContactMaterial,myA326_Power,myA326_OutputSignal

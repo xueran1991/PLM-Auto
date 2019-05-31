@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--连续物位测量--投入式压力变送器
+A307=mySupplierModelSpec,myA307_Brand,myA307_ProductLine,myA307_ProcessConnection,myA307_MebraneMaterial,myA307_ProbeConnection,myA307_SensorRange,myA307_ConnectionLength,myA307_OutputSignal,myA307_DisplayOperation,myA307_CableEntry,myA307_Precision,myA307_OilFill,myA307_Certificate

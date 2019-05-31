@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--电量仪表类--多功能表
+A038=mySupplierModelSpec,myA038_Brand,myA038_ProductLine,myA038_InstrumentAppearance,myA038_TheSizeOfHole,myA038_FunctionCode,myA038_DisplayMode,myA038_TheInputVoltage,myA038_InputCurrent,myA038_SupplyVoltageRange,myA038_RelayOverLimitAlarmOutputConfiguration,myA038_AnalogOutputConfiguration,myA038_CommunicationInterfaceConfiguration,myA038_SwitchInput/OutputConfiguration

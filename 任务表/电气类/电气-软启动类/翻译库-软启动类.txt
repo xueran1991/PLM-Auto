@@ -1,0 +1,4 @@
+品牌	Brand
+产品系列	ProductLine
+电机功率	TheMotorPower
+产品额定电压等级	RatedVoltageGradeOfProduct

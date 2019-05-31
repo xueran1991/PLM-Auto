@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机配件--内存
+A126=mySupplierModelSpec,myA126_Brand,myA126_ProductLine

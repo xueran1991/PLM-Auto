@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--中间继电器类--控制型继电器
+A022=mySupplierModelSpec,myA022_Brand,myA022_ProductLine

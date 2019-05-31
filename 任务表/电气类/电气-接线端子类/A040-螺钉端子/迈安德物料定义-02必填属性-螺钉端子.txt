@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--接线端子类--螺钉端子
+A040=mySupplierModelSpec,myA040_Brand,myA040_ProductLine,myA040_MaxCurrentAndMaxContactArea,myA040_MaxContactCapicity,myA040_TheRatedVoltage,myA040_Color

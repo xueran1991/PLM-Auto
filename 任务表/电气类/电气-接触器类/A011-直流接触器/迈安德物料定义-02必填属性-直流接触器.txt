@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--接触器类--直流接触器
+A011=mySupplierModelSpec,myA011_Brand,myA011_ProductLine,myA011_TheNumberOf,myA011_RatedOperatingCurrent,myA011_ConnectionMode,myA011_TheCoilVoltage,myA011_TheCoilType,myA011_Origin

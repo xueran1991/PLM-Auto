@@ -1,0 +1,25 @@
+品牌	Brand
+产品系列	ProductLine
+穿孔尺寸(mm)	HoleSize (mm)
+输出电流类型	OutputCurrentType
+输出标称值	OutputTheNominalValue
+输入电流类型	InputCurrentType
+输入标称值	EnterTheNominalValue
+测量值类型	TypeOfMeasurement
+安装方式	Installation
+精确等级	PreciseLevel
+额定电压	TheRatedVoltage
+产品型号	ProductModel
+派生代号	TheDerivedCode
+电流比	CurrentRatio
+精度等级	PrecisionGrade
+穿心匝数	WearHeartNumberOfTurns
+额定输出	RatedOutput
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--功能模块
+A108=mySupplierModelSpec,myA108_Brand,myA108_ProductLine

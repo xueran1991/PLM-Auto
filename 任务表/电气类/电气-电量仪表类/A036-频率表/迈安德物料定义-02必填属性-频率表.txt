@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--电量仪表类--频率表
+A036=mySupplierModelSpec,myA036_Brand,myA036_ProductLine,myA036_InstrumentAppearance,myA036_TheSizeOfHole,myA036_FunctionCode,myA036_DisplayMode,myA036_TheInputVoltage,myA036_InputCurrent,myA036_SupplyVoltageRange,myA036_RelayOverLimitAlarmOutputConfiguration,myA036_AnalogOutputConfiguration,myA036_CommunicationInterfaceConfiguration,myA036_SwitchInput/OutputConfiguration

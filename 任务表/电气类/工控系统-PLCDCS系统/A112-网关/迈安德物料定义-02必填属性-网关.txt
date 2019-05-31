@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--网关
+A112=mySupplierModelSpec,myA112_Brand,myA112_ProductLine

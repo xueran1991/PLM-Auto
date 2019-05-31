@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--可燃有毒检测--可燃气体LEL监测
+A356=mySupplierModelSpec,myA356_Application,myA356_Range,myA356_CableEntry,myA356_OutputSignal

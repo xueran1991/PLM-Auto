@@ -1,0 +1,22 @@
+品牌	Brand
+产品系列	ProductLine
+线圈电压	TheCoilVoltage
+电流类型	CurrentType
+触点类型	ContactType
+接线端子	Terminal
+备注	Note
+产品名称	TheProductName
+输出类型	TheOutputType
+电源电压	ThePowerSupplyVoltage
+可配基座	CanMatchTheBase
+时间范围	TimeRange
+功能	Function
+接线结构	ConnectionStructure
+插件接口	Plug-inInterface
+电流	Current
+适用于继电器型号	ApplicableToRelayModels
+触点数量	ContactNumber
+LED指示灯	The LED light
+线圈电压	TheCoilVoltage
+额定电流	RatedCurrent
+

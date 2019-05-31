@@ -1,0 +1,14 @@
+品牌	Brand
+产品系列	ProductLine
+宽度(mm)	TheWidth(mm)
+深度(mm)	Depth(mm)
+高度(mm)	Height(mm)
+备注	Note
+
+
+
+
+
+
+
+

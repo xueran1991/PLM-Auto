@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--接触器类--接触器附件
+A012=mySupplierModelSpec,myA012_Brand,myA012_ProductLine,myA012_InstallationPosition,myA012_ContactType,myA012_ConnectionMode,myA012_TheDerivedCode

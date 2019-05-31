@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--按钮指示灯类--报警
+A029=mySupplierModelSpec,myA029_Brand,myA029_ProductLine,myA029_ProductCode,myA029_ThePowerSupplyVoltage,myA029_Color,myA029_Origin

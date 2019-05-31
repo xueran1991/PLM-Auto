@@ -42,9 +42,8 @@ class PLM_auto():
 
     def get_class(self, file):
         ## 提取分类类别
-        Y201_ruls_path = self.base_path + file
-        Y201_ruls_wb = load_workbook(Y201_ruls_path)
-        Y201_ruls_ws = Y201_ruls_wb['物料分类表 R22']
+        Y201_ruls_wb = load_workbook(file)
+        Y201_ruls_ws = Y201_ruls_wb.active
 
         # C: 大类名称 电气……
         # E：中类名称 传感器……
@@ -77,12 +76,13 @@ class PLM_auto():
         brs = brands_file.readlines()
         self.brands = {}
         for br in brs:
-            ls = re.split("\s", br)
+            ls = re.split("\t", br)
             if ls[0] != '':
                 if ls[0] not in self.brands.keys() \
                 and ls[1] not in self.brands.values():
 
-                    self.brands[ls[0]] = ls[1]
+                    # self.brands[ls[0]] = ls[1]
+                    self.brands[ls[0]] = re.split("\n", ls[1])[0]
                 else:
                     print('品牌库异常：', ls[0], ls[1], '出现重复项')
 
@@ -182,6 +182,12 @@ class PLM_auto():
 
         self.dataframe = pd.DataFrame(data=self.data[2:, 1:], \
             columns=self.data[1, 1:], index=self.data[2:, 0])
+        # 清理dataframe中的None行或列
+        # self.dataframe = self.dataframe.dropna('columns', how='all')
+        self.dataframe.dropna('rows', how='all', inplace=True)
+        if None in self.dataframe.columns:
+            self.dataframe.drop([None], 'columns', inplace=True)
+
         # 属性
         self.attribs = self.dataframe.columns[2:]
         # 属性是否必填

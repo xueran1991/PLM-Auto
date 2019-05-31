@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--操作台--标准操作台
+A133=mySupplierModelSpec,myA133_Brand,myA133_ProductLine

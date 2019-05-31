@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--变频器类--低压变频器
+A016=mySupplierModelSpec,myA016_Brand,myA016_ProductLine,myA016_TheMotorPower,myA016_PhaseNumberAndVoltage,myA016_CommunicationCode,myA016_EMCFilter

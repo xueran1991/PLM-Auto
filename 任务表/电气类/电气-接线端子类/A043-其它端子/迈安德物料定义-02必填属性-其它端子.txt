@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--接线端子类--其它端子
+A043=mySupplierModelSpec,myA043_Brand,myA043_ProductLine

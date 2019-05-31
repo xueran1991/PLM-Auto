@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--中间继电器类--延时继电器
+A024=mySupplierModelSpec,myA024_Brand,myA024_ProductLine,myA024_TheOutputType,myA024_ThePowerSupplyVoltage,myA024_CanMatchTheBase,myA024_TimeRange,myA024_Function

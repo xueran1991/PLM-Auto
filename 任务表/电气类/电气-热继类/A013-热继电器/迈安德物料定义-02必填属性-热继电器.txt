@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--热继类--热继电器
+A013=mySupplierModelSpec,myA013_Brand,myA013_ProductLine,myA013_SetTheCurrentRange,myA013_EquippedWithContactor,myA013_TrippingLevel,myA013_TheProductType,myA013_Installation

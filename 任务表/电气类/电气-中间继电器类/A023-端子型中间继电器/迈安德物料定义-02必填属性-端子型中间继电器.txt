@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--中间继电器类--端子型中间继电器
+A023=mySupplierModelSpec,myA023_Brand,myA023_ProductLine,myA023_TheCoilVoltage,myA023_CurrentType,myA023_ContactType,myA023_Terminal

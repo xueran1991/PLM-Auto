@@ -1,0 +1,4 @@
+品牌	Brand
+产品系列	ProductLine
+备注	Note
+

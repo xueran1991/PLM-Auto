@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--按钮指示灯类--按钮
+A027=mySupplierModelSpec,myA027_Brand,myA027_ProductLine,myA027_PushButtonHeadDiameter,myA027_ButtonType,myA027_ContactType,myA027_Color,myA027_CodeName,myA027_FunctionalConfiguration

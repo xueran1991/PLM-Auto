@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--传感器安装附件--安装法兰
+A365=mySupplierModelSpec,myA365_Brand,myA365_ProductLine,myA365_Material,myA365_Meter,myA365_ScrewThread

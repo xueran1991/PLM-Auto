@@ -1,0 +1,23 @@
+是否必填			1	1	1	1
+序号	分类名称	供应商型号规格	品牌	产品系列	供电电压	触点
+1	PTC保护继电器	CM-MSE 220-240V AC 1no	ABB	PTC系列热敏电阻电机保护继电器	220-240V AC	1no
+2	PTC保护继电器	CM-MSS.11S 24-240V AC/DC 1no	ABB	PTC系列热敏电阻电机保护继电器	"24-240V AC/DC
+"	1no
+3	PTC保护继电器	CM-MSS.11S 24-240V AC/DC 1n/c	ABB	PTC系列热敏电阻电机保护继电器	"24-240V AC/DC
+"	1no
+4	PTC保护继电器	CM-MSS.12S 24V AC/DC 1c/o	ABB	PTC系列热敏电阻电机保护继电器	"24V AC/DC
+"	1no
+5	PTC保护继电器	CM-MSS.13S 220-240V AC 1c/o	ABB	PTC系列热敏电阻电机保护继电器	220-240V AC	"1c/o
+"
+6	PTC保护继电器	CM-MSS.21S 24-240V AC/DC 1no	ABB	PTC系列热敏电阻电机保护继电器	"24-240V AC/DC
+"	1no
+7	PTC保护继电器	CM-MSS.21S 24-240V AC/DC 1n/c	ABB	PTC系列热敏电阻电机保护继电器	"24-240V AC/DC
+"	"1n/c
+"
+8	PTC保护继电器	CM-MSS.23S 220-240V AC 2c/o	ABB	PTC系列热敏电阻电机保护继电器	220-240V AC	"2c/o
+"
+9	PTC保护继电器	CM-MSS.32S 24V AC/DC 2c/o	ABB	PTC系列热敏电阻电机保护继电器	"24V AC/DC
+"	"2c/o
+"
+10	PTC保护继电器	CM-MSS.33S 220-240V AC 2c/o	ABB	PTC系列热敏电阻电机保护继电器	220-240V AC	"2c/o
+"

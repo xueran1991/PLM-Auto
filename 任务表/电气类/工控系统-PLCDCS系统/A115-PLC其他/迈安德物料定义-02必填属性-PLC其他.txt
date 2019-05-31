@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--PLC其他
+A115=mySupplierModelSpec,myA115_Brand,myA115_ProductLine

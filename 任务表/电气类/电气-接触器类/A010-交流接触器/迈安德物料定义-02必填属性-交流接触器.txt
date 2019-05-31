@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--接触器类--交流接触器
+A010=mySupplierModelSpec,myA010_Brand,myA010_ProductLine,myA010_TheNumberOf,myA010_RatedOperatingCurrent,myA010_TheLoadType,myA010_ConnectionMode,myA010_TheCoilVoltage,myA010_TheCoilType,myA010_CoilVoltageFrequency,myA010_Origin

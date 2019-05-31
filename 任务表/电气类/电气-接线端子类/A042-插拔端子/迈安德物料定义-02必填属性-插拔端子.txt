@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--接线端子类--插拔端子
+A042=mySupplierModelSpec,myA042_Brand,myA042_ProductLine

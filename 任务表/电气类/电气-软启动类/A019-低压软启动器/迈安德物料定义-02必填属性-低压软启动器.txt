@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--软启动类--低压软启动器
+A019=mySupplierModelSpec,myA019_Brand,myA019_ProductLine,myA019_TheMotorPower,myA019_RatedVoltageGradeOfProduct

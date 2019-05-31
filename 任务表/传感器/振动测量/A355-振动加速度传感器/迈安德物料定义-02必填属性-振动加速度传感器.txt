@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--振动测量--振动加速度传感器
+A355=mySupplierModelSpec,myA355_Brand,myA355_ProductLine,myA355_DetectionRange,myA355_ProcessConnection,myA355_ElectricMounting,myA355_Power,myA355_OutputSignal

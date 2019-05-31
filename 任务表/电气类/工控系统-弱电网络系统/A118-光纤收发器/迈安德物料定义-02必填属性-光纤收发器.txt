@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--弱电网络系统--光纤收发器
+A118=mySupplierModelSpec,myA118_Brand,myA118_ProductLine

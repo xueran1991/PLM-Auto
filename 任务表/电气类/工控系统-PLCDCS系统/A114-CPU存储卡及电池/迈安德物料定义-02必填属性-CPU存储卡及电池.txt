@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--CPU存储卡及电池
+A114=mySupplierModelSpec,myA114_Brand,myA114_ProductLine

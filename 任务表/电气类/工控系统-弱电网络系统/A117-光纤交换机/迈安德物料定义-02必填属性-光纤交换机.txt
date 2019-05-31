@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--弱电网络系统--光纤交换机
+A117=mySupplierModelSpec,myA117_Brand,myA117_ProductLine,myA117_VoltageRange

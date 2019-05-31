@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机配件--网卡
+A125=mySupplierModelSpec,myA125_Brand,myA125_ProductLine

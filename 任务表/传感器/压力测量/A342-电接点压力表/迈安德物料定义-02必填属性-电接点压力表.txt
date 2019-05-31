@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--压力测量--电接点压力表
+A342=mySupplierModelSpec,myA342_Brand,myA342_ProductLine,myA342_ProcessConnection,myA342_Range

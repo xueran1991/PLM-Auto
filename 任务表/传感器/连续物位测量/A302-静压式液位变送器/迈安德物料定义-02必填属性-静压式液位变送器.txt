@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--连续物位测量--静压式液位变送器
+A302=mySupplierModelSpec,myA302_Brand,myA302_ProductLine,myA302_ProcessConnection,myA302_ContactMaterial,myA302_OilFill,myA302_OutputSignal,myA302_DisplayOperation,myA302_CableEntry,myA302_ExplosionProofCertificate,myA302_RatedRange

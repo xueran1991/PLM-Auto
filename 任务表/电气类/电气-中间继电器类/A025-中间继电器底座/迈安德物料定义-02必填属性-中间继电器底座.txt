@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--中间继电器类--中间继电器底座
+A025=mySupplierModelSpec,myA025_Brand,myA025_ProductLine,myA025_ConnectionStructure,myA025_Plug-inInterface,myA025_Current,myA025_ApplicableToRelayModels

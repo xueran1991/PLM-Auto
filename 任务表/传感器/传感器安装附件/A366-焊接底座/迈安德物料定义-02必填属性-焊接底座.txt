@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--传感器安装附件--焊接底座
+A366=mySupplierModelSpec,myA366_Brand,myA366_ProductLine,myA366_Material

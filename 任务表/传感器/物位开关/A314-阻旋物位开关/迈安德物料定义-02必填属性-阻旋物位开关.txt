@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--物位开关--阻旋物位开关
+A314=mySupplierModelSpec,myA314_Brand,myA314_ProductLine,myA314_ProcessConnection,myA314_PowerAndOutput,myA314_OutputSignal,myA314_BladeType,myA314_ExType

@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--连续物位测量--双法兰液位变送器
+A303=mySupplierModelSpec,myA303_Brand,myA303_ProductLine,myA303_ProcessConnectionType,myA303_ProcessConnectionSize,myA303_ProcessConnectionMaterial,myA303_RatedRange,myA303_OutputSignal,myA303_DisplayOperation,myA303_CableEntry,myA303_Certificate,myA303_OilFill,myA303_CapillaryTube

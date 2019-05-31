@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--连续物位测量--雷达物位传感器
+A300=mySupplierModelSpec,myA300_Brand,myA300_ProductLine,myA300_ProcessConnection,myA300_TemperatureRange,myA300_PressureRange,myA300_Antenna,myA300_Application,myA300_Power,myA300_OutputSignal,myA300_DisplayOperation,myA300_CableEntry

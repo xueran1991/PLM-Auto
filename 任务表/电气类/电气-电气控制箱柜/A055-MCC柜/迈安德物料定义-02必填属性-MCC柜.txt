@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--电气控制箱/柜--MCC柜
+A055=mySupplierModelSpec,myA055_Brand,myA055_ProductLine,myA055_TheWidth(mm),myA055_Depth(mm),myA055_Height(mm),myA055_Note

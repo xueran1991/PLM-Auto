@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--电量仪表类--电压表
+A035=mySupplierModelSpec,myA035_Brand,myA035_ProductLine,myA035_InputMode,myA035_DesignASequenceNumber,myA035_Type,myA035_TheCircuitUnderTestIsConnected,myA035_Range

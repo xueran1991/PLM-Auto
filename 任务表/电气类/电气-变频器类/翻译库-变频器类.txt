@@ -1,0 +1,10 @@
+品牌	Brand
+产品系列	ProductLine
+电机功率	TheMotorPower
+相数及电压	PhaseNumberAndVoltage
+通讯代号	CommunicationCode
+EMC滤波器	EMCFilter
+备注	Note
+产品名称	TheProductName
+订货号	TheOrderNo
+备注	Note

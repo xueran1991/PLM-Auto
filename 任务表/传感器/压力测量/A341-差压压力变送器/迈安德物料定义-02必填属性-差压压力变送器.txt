@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--压力测量--差压压力变送器
+A341=mySupplierModelSpec,myA341_Brand,myA341_ProductLine,myA341_Application,myA341_ExType,myA341_OutputSignal,myA341_ElectricMounting,myA341_Range,myA341_ProcessConnection,myA341_ProcessConnectionMaterial,myA341_MebraneMaterial

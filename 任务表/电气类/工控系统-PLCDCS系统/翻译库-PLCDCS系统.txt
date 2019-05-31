@@ -1,0 +1,10 @@
+品牌	Brand
+产品系列	ProductLine
+CPU类型	TheCPUType
+型号	Model
+规格	Specifications
+说明	Instructions
+备注	Note
+输入	Input
+输出	Output
+

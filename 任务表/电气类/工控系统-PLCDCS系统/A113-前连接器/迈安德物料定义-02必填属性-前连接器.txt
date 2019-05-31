@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--前连接器
+A113=mySupplierModelSpec,myA113_Brand,myA113_ProductLine

@@ -1,0 +1,5 @@
+品牌	Brand
+产品系列	ProductLine
+备注	Note
+电压范围	VoltageRange
+

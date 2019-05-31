@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--保护继电器类--PTC保护继电器
+A047=mySupplierModelSpec,myA047_Brand,myA047_ProductLine,myA047_ThePowerSupplyVoltage,myA047_TheOutputContacts

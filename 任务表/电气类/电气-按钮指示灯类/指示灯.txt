@@ -1,0 +1,12 @@
+是否必填			1	1	1	1	1
+序号	分类名称	供应商型号规格	品牌	产品系列	电压代号	颜色	派生代号
+1	指示灯	XB2BVB1LC	施耐德	XB2BV系列指示灯	带LED AC/DC24V	白色	中国制造
+2	指示灯	XB2BVB3LC	施耐德	XB2BV系列指示灯	带LED AC/DC24V	绿色	中国制造
+3	指示灯	XB2BVB4LC	施耐德	XB2BV系列指示灯	带LED AC/DC24V	红色	中国制造
+4	指示灯	XB2BVB5LC	施耐德	XB2BV系列指示灯	带LED AC/DC24V	黄色	中国制造
+5	指示灯	XB2BVB6LC	施耐德	XB2BV系列指示灯	带LED AC/DC24V	蓝色	中国制造
+6	指示灯	XB2BVM1LC	施耐德	XB2BV系列指示灯	带LED AC220V,50Hz	白色	中国制造
+7	指示灯	XB2BVM3LC	施耐德	XB2BV系列指示灯	带LED AC220V,50Hz	绿色	中国制造
+8	指示灯	XB2BVM4LC	施耐德	XB2BV系列指示灯	带LED AC220V,50Hz	红色	中国制造
+9	指示灯	XB2BVM5LC	施耐德	XB2BV系列指示灯	带LED AC220V,50Hz	黄色	中国制造
+10	指示灯	XB2BVM6LC	施耐德	XB2BV系列指示灯	带LED AC220V,50Hz	蓝色	中国制造

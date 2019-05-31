@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--温湿度测量--热电阻
+A329=mySupplierModelSpec,myA329_Brand,myA329_ProductLine,myA329_SensorType,myA329_ElectricMounting

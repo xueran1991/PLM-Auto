@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--接线端子类--弹簧端子
+A041=mySupplierModelSpec,myA041_Brand,myA041_ProductLine,myA041_RatedCrossSection(mm2),myA041_ConnectionCapacity(mm2),myA041_Color

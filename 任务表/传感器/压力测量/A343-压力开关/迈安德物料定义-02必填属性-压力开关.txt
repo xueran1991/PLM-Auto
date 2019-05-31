@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--压力测量--压力开关
+A343=mySupplierModelSpec,myA343_Brand,myA343_ProductLine,myA343_ProcessConnection,myA343_ContactingMaterial,myA343_ProcessPressure,myA343_Power,myA343_OutputSignal,myA343_ElectricMounting

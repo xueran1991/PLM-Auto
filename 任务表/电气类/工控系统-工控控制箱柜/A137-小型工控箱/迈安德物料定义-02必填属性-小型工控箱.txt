@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--工控控制箱/柜--小型工控箱
+A137=mySupplierModelSpec,myA137_Brand,myA137_ProductLine

@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机主机--商务计算机
+A119=mySupplierModelSpec,myA119_Brand,myA119_ProductLine

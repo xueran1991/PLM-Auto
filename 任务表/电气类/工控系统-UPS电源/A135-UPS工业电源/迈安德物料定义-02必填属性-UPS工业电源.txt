@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--UPS电源--UPS工业电源
+A135=mySupplierModelSpec,myA135_Brand,myA135_ProductLine

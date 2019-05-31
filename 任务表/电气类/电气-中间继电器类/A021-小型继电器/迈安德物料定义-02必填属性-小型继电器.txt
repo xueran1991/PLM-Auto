@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--中间继电器类--小型继电器
+A021=mySupplierModelSpec,myA021_Brand,myA021_ProductLine,myA021_ContactType,myA021_ContactNumber,myA021_TheLEDLight,myA021_TheCoilVoltage,myA021_RatedCurrent

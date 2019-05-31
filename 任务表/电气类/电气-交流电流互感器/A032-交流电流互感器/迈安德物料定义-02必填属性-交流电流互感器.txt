@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--互感器类--交流电流互感器
+A032=mySupplierModelSpec,myA032_Brand,myA032_ProductLine,myA032_TheRatedVoltage,myA032_ProductModel,myA032_TheDerivedCode,myA032_HoleSize,myA032_CurrentRatio,myA032_PrecisionGrade,myA032_WearHeartNumberOfTurns,myA032_RatedOutput

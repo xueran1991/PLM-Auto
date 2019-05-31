@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--显示器--液晶显示器
+A129=mySupplierModelSpec,myA129_Brand,myA129_ProductLine

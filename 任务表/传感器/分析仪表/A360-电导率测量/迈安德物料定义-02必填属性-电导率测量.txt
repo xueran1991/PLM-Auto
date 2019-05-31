@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--分析仪表--电导率测量
+A360=mySupplierModelSpec,myA360_Brand,myA360_ProductLine,myA360_Electrode,myA360_Transmitter,myA360_ProcessConnection

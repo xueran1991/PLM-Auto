@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机主机--工业计算机
+A120=mySupplierModelSpec,myA120_Brand,myA120_ProductLine

@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--CPU
+A101=mySupplierModelSpec,myA101_Brand,myA101_ProductLine,myA101_TheCPUType,myA101_Model,myA101_Specifications

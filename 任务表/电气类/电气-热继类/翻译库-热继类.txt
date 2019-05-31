@@ -1,0 +1,9 @@
+品牌	Brand
+产品系列	ProductLine
+整定电流范围	SetTheCurrentRange
+配用接触器	EquippedWithContactor
+脱扣等级	TrippingLevel
+产品类型	TheProductType
+安装方式	Installation
+产品名称	TheProductName
+备注（适用系列）	Remarks (ApplicableSeries)

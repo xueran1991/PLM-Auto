@@ -1,0 +1,16 @@
+#====各分类组合属性集===========
+#====分类码.组合属性代码+组合顺序=子属性名
+#====物料简称:cassShortDescription
+#====描述:myDesc
+
+#--电气类--接线端子类--其它端子
+
+#l表示：PLM物料名称:ERP物料名称
+A043.l0={cassShortDescription}
+
+#d：ERP物料名称:物料简称
+A043.d0={cassShortDescription}
+
+#s：ERP型号规格:供应商型号规格
+A043.s0={mySupplierModelSpec}
+

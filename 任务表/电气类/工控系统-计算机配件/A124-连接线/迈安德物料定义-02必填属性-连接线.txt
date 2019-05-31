@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机配件--连接线
+A124=mySupplierModelSpec,myA124_Brand,myA124_ProductLine

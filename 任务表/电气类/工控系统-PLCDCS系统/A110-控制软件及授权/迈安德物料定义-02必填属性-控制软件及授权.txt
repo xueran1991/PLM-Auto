@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--控制软件及授权
+A110=mySupplierModelSpec,myA110_Brand,myA110_ProductLine

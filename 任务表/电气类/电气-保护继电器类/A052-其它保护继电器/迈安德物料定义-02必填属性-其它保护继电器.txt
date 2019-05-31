@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--保护继电器类--其它保护继电器
+A052=mySupplierModelSpec,myA052_Brand,myA052_ProductLine

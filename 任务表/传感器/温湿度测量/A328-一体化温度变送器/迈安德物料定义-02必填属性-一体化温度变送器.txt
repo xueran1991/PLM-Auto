@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--温湿度测量--一体化温度变送器
+A328=mySupplierModelSpec,myA328_Brand,myA328_ProductLine,myA328_ExType,myA328_CableEntry,myA328_ProcessConnection,myA328_NominalInsertionLength,myA328_ContactMaterial,myA328_Range

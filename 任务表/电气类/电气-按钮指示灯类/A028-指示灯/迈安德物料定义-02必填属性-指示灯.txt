@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--按钮指示灯类--指示灯
+A028=mySupplierModelSpec,myA028_Brand,myA028_ProductLine,myA028_ThePowerSupplyVoltage,myA028_Color,myA028_Origin

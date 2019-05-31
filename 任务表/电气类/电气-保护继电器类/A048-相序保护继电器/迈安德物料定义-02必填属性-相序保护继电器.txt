@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--保护继电器类--相序保护继电器
+A048=mySupplierModelSpec,myA048_Brand,myA048_ProductLine,myA048_DetectionFunction,myA048_ThePowerSupplyVoltage,myA048_TheOutputContacts

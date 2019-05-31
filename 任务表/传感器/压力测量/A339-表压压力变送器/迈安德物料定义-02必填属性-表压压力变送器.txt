@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--压力测量--表压压力变送器
+A339=mySupplierModelSpec,myA339_Brand,myA339_ProductLine,myA339_ExType,myA339_OutputSignal,myA339_DisplayOperation,myA339_CableEntry,myA339_Range,myA339_ProcessConnection,myA339_ProcessConnectionMaterial,myA339_MebraneMaterial,myA339_OilFill,myA339_Range

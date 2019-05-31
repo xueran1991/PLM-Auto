@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--流量测量--涡街流量计
+A322=mySupplierModelSpec,myA322_Brand,myA322_ProductLine,myA322_Application,myA322_Meter,myA322_Flange,myA322_Compensate,myA322_Power,myA322_Signal

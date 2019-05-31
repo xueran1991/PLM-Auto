@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机软件--操作系统
+A121=mySupplierModelSpec,myA121_Brand,myA121_ProductLine

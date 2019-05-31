@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机配件--硬盘
+A127=mySupplierModelSpec,myA127_Brand,myA127_ProductLine

@@ -1,0 +1,12 @@
+品牌	Brand
+产品系列	ProductLine
+备注	Note
+额定横截面(mm2)	RatedCrossSection(mm2)	
+接线容量(mm2)	ConnectionCapacity
+颜色	Color
+备注	Note
+最大电流/最大压接面积(A/平方毫米)	MaximumCurrent/maximumCrimpArea (A/Square mm)
+最大压接范围(平方毫米)	MaximumBondingRange(A/Square mm)
+额定电压	TheRatedVoltage
+颜色	Color
+

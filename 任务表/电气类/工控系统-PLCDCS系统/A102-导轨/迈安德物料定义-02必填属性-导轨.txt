@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--导轨
+A102=mySupplierModelSpec,myA102_Brand,myA102_ProductLine

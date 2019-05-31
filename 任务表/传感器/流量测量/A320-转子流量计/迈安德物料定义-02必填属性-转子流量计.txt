@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--流量测量--转子流量计
+A320=mySupplierModelSpec,myA320_Brand,myA320_ProductLine,myA320_Application,myA320_Meter,myA320_Power,myA320_OutputSignal

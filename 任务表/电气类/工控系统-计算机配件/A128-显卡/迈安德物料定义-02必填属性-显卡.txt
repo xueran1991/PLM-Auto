@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机配件--显卡
+A128=mySupplierModelSpec,myA128_Brand,myA128_ProductLine

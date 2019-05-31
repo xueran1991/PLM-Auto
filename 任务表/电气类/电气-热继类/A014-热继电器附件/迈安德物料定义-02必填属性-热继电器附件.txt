@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--热继类--热继电器附件
+A014=mySupplierModelSpec,myA014_Brand,myA014_ProductLine,myA014_TheProductName,myA014_Remarks

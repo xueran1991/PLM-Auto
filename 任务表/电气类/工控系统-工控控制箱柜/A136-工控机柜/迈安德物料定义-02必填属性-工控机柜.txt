@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--工控控制箱/柜--工控机柜
+A136=mySupplierModelSpec,myA136_Brand,myA136_ProductLine

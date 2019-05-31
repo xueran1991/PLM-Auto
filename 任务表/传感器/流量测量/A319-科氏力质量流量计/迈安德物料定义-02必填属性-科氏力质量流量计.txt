@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--流量测量--科氏力质量流量计
+A319=mySupplierModelSpec,myA319_Brand,myA319_ProductLine,myA319_Material,myA319_ProcessConnection,myA319_Meter,myA319_Power,myA319_OutputSignal,myA319_Precision

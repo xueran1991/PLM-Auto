@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--压力测量--压差开关
+A344=mySupplierModelSpec,myA344_Brand,myA344_ProductLine,myA344_ProcessConnection,myA344_ContactingMaterial,myA344_ProcessPressure,myA344_Power,myA344_OutputSignal,myA344_ElectricMounting

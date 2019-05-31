@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--电动机保护器类--低压电动机保护器
+A020=mySupplierModelSpec,myA020_Brand,myA020_ProductLine,myA020_CurrentSettingRange,myA020_MotorPower,myA020_TypeOfCurrentTransformer,myA020_TheAttachmentFunction,myA020_SwitchInputConfiguration,myA020_CommunicationConfiguration,myA020_LeakageProtectionConfiguration,myA020_AnalogOutputConfiguration,myA020_AlarmConfiguration,myA020_S0EEventRecordConfiguration,myA020_TemperatureProtectionConfiguration,myA020_VoltageFunctionConfiguration,myA020_AntiShockConfiguration,myA020_DisplayMode,myA020_TheProductType,myA020_BodyAndDisplayConnector,myA020_ConnectionWireBetweenMainBodyAndTransformer

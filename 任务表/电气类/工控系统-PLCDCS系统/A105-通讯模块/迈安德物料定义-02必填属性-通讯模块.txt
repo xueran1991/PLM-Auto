@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--PLC/DCS系统--通讯模块
+A105=mySupplierModelSpec,myA105_Brand,myA105_ProductLine

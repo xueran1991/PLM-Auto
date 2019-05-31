@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--其它低压电气类--其它低压电气类
+A057=mySupplierModelSpec,myA057_Brand,myA057_ProductLine

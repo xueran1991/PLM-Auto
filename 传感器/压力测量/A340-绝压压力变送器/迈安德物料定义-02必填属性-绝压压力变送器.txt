@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--压力测量--绝压压力变送器
+A340=mySupplierModelSpec,myA340_Brand,myA340_ProductLine,myA340_Application,myA340_ExType,myA340_OutputSignal,myA340_DisplayOperation,myA340_CableEntry,myA340_ProcessConnection,myA340_ProcessConnectionMaterial,myA340_MebraneMaterial,myA340_Range,myA340_PressureRange

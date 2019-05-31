@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--工控系统--计算机配件--键盘
+A123=mySupplierModelSpec,myA123_Brand,myA123_ProductLine

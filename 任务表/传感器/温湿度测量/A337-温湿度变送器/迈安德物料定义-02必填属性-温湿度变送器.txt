@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--温湿度测量--温湿度变送器
+A337=mySupplierModelSpec,myA337_Brand,myA337_ProductLine,myA337_LengthOfSensor,myA337_OutputChannel,myA337_ElectricParameters

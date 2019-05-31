@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--电量仪表类--电能表
+A037=mySupplierModelSpec,myA037_Brand,myA037_ProductLine,myA037_InstrumentAppearance,myA037_TheSizeOfHole,myA037_FunctionCode,myA037_DisplayMode,myA037_TheInputVoltage,myA037_InputCurrent,myA037_SupplyVoltageRange,myA037_RelayOverLimitAlarmOutputConfiguration,myA037_AnalogOutputConfiguration,myA037_CommunicationInterfaceConfiguration,myA037_SwitchInput/OutputConfiguration,myA037_StandardPulseOutputConfiguration

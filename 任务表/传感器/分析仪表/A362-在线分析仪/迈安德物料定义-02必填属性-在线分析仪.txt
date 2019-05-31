@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--传感器--分析仪表--在线分析仪
+A362=mySupplierModelSpec,myA362_Brand,myA362_ProductLine,myA362_Power

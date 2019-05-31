@@ -1,0 +1,4 @@
+#===============电气与自动化================
+
+#--电气类--互感器类--交流电流变送器
+A033=mySupplierModelSpec,myA033_Brand,myA033_ProductLine,myA033_HoleSize,myA033_OutputCurrentType,myA033_OutputTheNominalValue,myA033_InputCurrentType,myA033_EnterTheNominalValue,myA033_TypeOfMeasurement,myA033_Installation,myA033_PreciseLevel
